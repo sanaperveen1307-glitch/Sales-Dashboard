@@ -4,7 +4,7 @@
 The main objective of this project is to Analyze Sales , Product and Customer performance to provide data-driven insights for strategic business decision-making. The dashboard focuses on key performance indicators (KPIs) across sales, profit, and customer demographics to identify trends, top-performing categories/products, and customer segments.
 
 ## Dataset Used
-<a  "https://github.com/sanaperveen1307-glitch/Sales-Dashboard/blob/main/Calender%20Table.csv"> Calendarlookup 
+ "https://github.com/sanaperveen1307-glitch/Sales-Dashboard/blob/main/Calender%20Table.csv",Calendarlookup 
 
 ## Sales Analysis 
 - (KPI) Compare Current and previous year (Revenue , Order, Profit & Retruns)
