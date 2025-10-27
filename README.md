@@ -1,4 +1,4 @@
-# Sale Dasboard_ Data_Analysis (Interactive Dasboard ccreation using Powerbi )
+# Sales Data_Analysis (Interactive Dasboard ccreation using Powerbi )
 
 ## Project Objective
 The main objective of this project is to Analyze Sales , Product and Customer performance to provide data-driven insights for strategic business decision-making. The dashboard focuses on key performance indicators (KPIs) across sales, profit, and customer demographics to identify trends, top-performing categories/products, and customer segments.
