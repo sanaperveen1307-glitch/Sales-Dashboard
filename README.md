@@ -45,6 +45,7 @@ The main objective of this project is to Analyze Sales , Product and Customer pe
 - Data Transformation: Loaded and cleaned the raw data in Power Query (e.g., ensuring correct data types, handling any null values).
 - Data Modeling (DAX): Created necessary DAX measures 
 - Visualization: Designed a multi-page dashboard, including a Sales & Profit Dashboard and a Customer Analysis Dashboard.
-- Dashboard interaction <a href = "
+- Dashboard interaction <a href = "https://github.com/sanaperveen1307-glitch/Sales-Dashboard/blob/main/SALES%20%26%20PROFIT%20DASHBOARD..pbix"> Veiw Dashboard</a>
 
 ## Dasboard 
+"https://github.com/sanaperveen1307-glitch/Sales-Dashboard/blob/main/SALES%20%26%20PROFIT%20DASHBOARD..pbix", Dashboard
