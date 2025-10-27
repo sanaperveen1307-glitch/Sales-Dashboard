@@ -1,0 +1,790 @@
+CustomerKey,Prefix,FirstName,LastName,Customer Full name,BirthDate,MaritalStatus,Gender,EmailAddress,AnnualIncome,TotalChildren,EducationLevel,Occupation,HomeOwner
+1200,MR.,Darren,Powers,Darren Powers,4/8/1966,M,M,Darren@gmail.com,90000,2,Bachelors,Professional,Y
+1201,MR.,Phillina,Ober,Phillina Ober,5/14/1965,S,M,Phillina@gmail.com,60000,3,Bachelors,Professional,N
+1202,MR.,Mick,Powers,Mick Brown,8/12/1965,M,M,Mick@gmail.com,60000,3,Bachelors,Professional,Y
+1203,MS.,Lycoris,Ober,Lycoris Saunders,2/15/1968,S,F,Lycoris@gmail.com,70000,0,Bachelors,Professional,N
+1204,MRS.,Darren,Powers,Jack O'Briant,8/8/1968,S,F,Jack@gmail.com,80000,5,Bachelors,Professional,Y
+1205,MR.,Phillina,Ober,Maria Etezadi,8/5/1965,S,M,Maria@gmail.com,70000,0,Bachelors,Professional,Y
+1206,MR.,Mick,Powers,Vivek Sundaresam,5/9/1964,M,M,Vivek@gmail.com,60000,3,Bachelors,Professional,Y
+1207,MRS.,Lycoris,Ober,Melanie Seite,7/7/1964,S,F,Melanie@gmail.com,60000,4,Bachelors,Professional,Y
+1208,MR.,Darren,Powers,Anthony Jacobs,4/1/1964,S,M,Anthony@gmail.com,70000,0,Bachelors,Professional,N
+1209,MS.,Phillina,Ober,Seth Vernon,2/6/1964,S,F,Seth@gmail.com,70000,0,Bachelors,Professional,N
+1210,MR.,Mick,Powers,Chris Selesnick,11/4/1963,M,M,Chris@gmail.com,60000,4,Bachelors,Professional,Y
+1211,MRS.,Lycoris,Ober,Natalie DeCherney,1/18/1968,M,F,Natalie@gmail.com,100000,2,Bachelors,Management,Y
+1212,MR.,Darren,Powers,Brian Dahlen,8/6/1968,M,M,Brian@gmail.com,100000,2,Bachelors,Management,Y
+1213,MRS.,Phillina,Ober,Michael Moore,5/9/1968,S,F,Michael@gmail.com,100000,3,Bachelors,Management,N
+1214,MS.,Mick,Powers,Brendan Sweed,2/27/1979,S,F,Brendan@gmail.com,30000,0,Partial College,Skilled Manual,N
+1215,MR.,Lycoris,Ober,Erica Hackney,4/28/1979,M,M,Erica@gmail.com,30000,0,Partial College,Skilled Manual,Y
+1216,MRS.,Darren,Powers,Delfina Latchford,6/26/1944,S,F,Delfina@gmail.com,20000,4,High School,Skilled Manual,Y
+1217,MR.,Phillina,Ober,David Wiener,10/9/1944,S,M,David@gmail.com,30000,2,Partial College,Clerical,Y
+1218,MR.,Mick,Powers,Toby Swindell,3/7/1978,S,M,Toby@gmail.com,40000,0,High School,Skilled Manual,N
+1219,MR.,Lycoris,Ober,Hunter Lopez,9/20/1978,S,M,Hunter@gmail.com,40000,0,High School,Skilled Manual,N
+1220,MS.,Darren,Powers,Mark Van Huff,9/3/1978,S,F,Mark Van@gmail.com,40000,0,Partial College,Skilled Manual,N
+1221,MR.,Phillina,Ober,Xylona Preis,10/12/1978,M,M,Xylona@gmail.com,40000,0,Partial College,Skilled Manual,Y
+1222,MR.,Mick,Powers,Muhammed MacIntyre,10/11/1978,M,M,Muhammed@gmail.com,40000,0,Partial College,Skilled Manual,Y
+1223,MR.,Lycoris,Ober,Tom Boeckenhauer,9/17/1978,M,M,Tom@gmail.com,60000,0,Partial College,Skilled Manual,Y
+1224,MR.,Darren,Powers,Ionia McGrath,12/23/1945,M,NA,Ionia@gmail.com,10000,2,Partial High School,Clerical,Y
+1225,MR.,Phillina,Ober,Speros Goranitis,4/3/1946,S,M,Speros@gmail.com,30000,2,Partial College,Clerical,N
+1226,MR.,Mick,Powers,Shirley Daniels,12/7/1946,M,M,Shirley@gmail.com,30000,2,Partial College,Clerical,Y
+1227,MRS.,Lycoris,Ober,Carol Adams,4/11/1946,M,F,Carol@gmail.com,30000,2,Partial College,Clerical,Y
+1228,MR.,Darren,Powers,Ed Jacobs,12/21/1946,M,M,Ed@gmail.com,30000,2,Partial College,Clerical,Y
+1229,MRS.,Phillina,Ober,Jasper Cacioppo,2/22/1947,M,F,Jasper@gmail.com,10000,2,Partial High School,Clerical,Y
+1230,MRS.,Mick,Powers,Mike Vittorini,8/22/1947,M,F,Mike@gmail.com,20000,4,High School,Skilled Manual,Y
+1231,MRS.,Lycoris,Ober,Liz Carlisle,6/11/1947,M,F,Liz@gmail.com,20000,4,High School,Skilled Manual,Y
+1232,MR.,Darren,Powers,Bradley Drucker,9/23/1947,M,M,Bradley@gmail.com,20000,4,High School,Skilled Manual,Y
+1233,MRS.,Phillina,Ober,Cynthia Delaney,6/19/1947,M,F,Cynthia@gmail.com,20000,4,High School,Skilled Manual,Y
+1234,MR.,Mick,Powers,Eric Barreto,2/24/1948,M,NA,Eric@gmail.com,10000,2,Partial High School,Clerical,Y
+1235,MS.,Lycoris,Ober,Deborah Brumfield,12/18/1978,M,F,Deborah@gmail.com,60000,0,Partial College,Skilled Manual,Y
+1236,MS.,Darren,Powers,Mark Haberlin,11/27/1977,S,F,Mark@gmail.com,40000,0,Partial High School,Clerical,N
+1237,MRS.,Phillina,Ober,Neil Ducich,3/23/1948,M,F,Neil@gmail.com,10000,2,Partial High School,Clerical,Y
+1238,MR.,Mick,Powers,Cyma Kinney,12/17/1948,M,M,Cyma@gmail.com,30000,3,Partial College,Clerical,Y
+1239,MR.,Lycoris,Ober,Nathan Mautz,8/1/1977,M,M,Nathan@gmail.com,30000,0,Partial College,Skilled Manual,Y
+1240,MS.,Darren,Powers,Natalie Fritzler,10/16/1977,M,F,Natalie@gmail.com,60000,0,Partial College,Skilled Manual,Y
+1241,MS.,Phillina,Ober,Guy Armstrong,6/13/1977,M,F,Guy@gmail.com,70000,0,Partial College,Skilled Manual,Y
+1242,MR.,Mick,Powers,Sanjit Chand,2/24/1976,M,M,Sanjit@gmail.com,60000,0,Partial College,Skilled Manual,Y
+1243,MR.,Lycoris,Ober,Shui Tom,5/24/1949,M,M,Shui@gmail.com,20000,2,Partial High School,Clerical,Y
+1244,MR.,Darren,Powers,Marina Lichtenstein,5/19/1950,S,M,Marina@gmail.com,30000,3,High School,Skilled Manual,N
+1245,MRS.,Phillina,Ober,Barry Französisch,3/22/1950,M,F,Barry@gmail.com,30000,3,High School,Skilled Manual,Y
+1246,MRS.,Mick,Powers,Michael Nguyen,2/27/1950,M,F,Michael@gmail.com,30000,3,High School,Skilled Manual,N
+1247,MR.,Lycoris,Ober,Troy Blackwell,11/22/1950,M,M,Troy@gmail.com,30000,3,High School,Skilled Manual,Y
+1248,MS.,Darren,Powers,Aaron Bergman,7/18/1980,S,F,Aaron@gmail.com,40000,0,Partial High School,Clerical,Y
+1249,MR.,Phillina,Ober,Linda Cazamias,9/7/1951,M,M,Linda@gmail.com,30000,3,High School,Skilled Manual,Y
+1250,MR.,Mick,Powers,Steven Roelle,8/4/1951,S,M,Steven@gmail.com,30000,3,High School,Skilled Manual,N
+1251,MRS.,Lycoris,Ober,Tamara Manning,8/7/1951,S,F,Tamara@gmail.com,40000,2,Partial College,Clerical,N
+1252,MS.,Darren,Powers,Sue Ann Reed,8/20/1980,M,F,Sue Ann@gmail.com,60000,0,Partial College,Skilled Manual,N
+1253,MRS.,Phillina,Ober,Michael Grace,3/10/1952,M,F,Michael@gmail.com,40000,2,Partial College,Skilled Manual,Y
+1254,MR.,Mick,Powers,Jennifer Halladay,3/5/1952,M,M,Jennifer@gmail.com,40000,2,Partial College,Skilled Manual,Y
+1255,MRS.,Lycoris,Ober,Joy Smith,4/3/1953,M,F,Joy@gmail.com,40000,3,Partial College,Skilled Manual,Y
+1256,MR.,Darren,Powers,Dave Brooks,10/12/1953,M,M,Dave@gmail.com,70000,2,Graduate Degree,Management,Y
+1257,MR.,Phillina,Ober,Hallie Redmond,4/27/1954,M,M,Hallie@gmail.com,80000,2,Partial College,Skilled Manual,Y
+1258,MRS.,Mick,Powers,Vicky Freymann,4/1/1954,S,F,Vicky@gmail.com,80000,2,Partial College,Skilled Manual,Y
+1259,MR.,Lycoris,Ober,Shahid Collister,3/17/1954,M,M,Shahid@gmail.com,80000,2,Partial College,Skilled Manual,Y
+1260,MR.,Darren,Powers,Giulietta Weimer,2/27/1954,M,M,Giulietta@gmail.com,80000,2,Partial College,Skilled Manual,Y
+1261,MR.,Phillina,Ober,Kristina Nunn,9/2/1975,M,M,Kristina@gmail.com,40000,0,High School,Skilled Manual,Y
+1262,MS.,Mick,Powers,Nicole Hansen,4/7/1975,S,F,Nicole@gmail.com,40000,0,High School,Skilled Manual,Y
+1263,MR.,Lycoris,Ober,Ashley Jarboe,12/7/1975,M,M,Ashley@gmail.com,40000,0,High School,Skilled Manual,Y
+1264,MS.,Darren,Powers,Anne Pryor,10/9/1973,M,F,Anne@gmail.com,60000,0,Partial College,Skilled Manual,N
+1265,MS.,Phillina,Ober,Jill Stevenson,11/27/1973,M,F,Jill@gmail.com,70000,0,Partial College,Professional,Y
+1266,MR.,Mick,Powers,Sam Craven,9/25/1976,S,M,Sam@gmail.com,60000,0,Partial College,Professional,Y
+1267,MRS.,Lycoris,Ober,Eva Jacobs,9/23/1955,S,F,Eva@gmail.com,80000,2,High School,Skilled Manual,Y
+1268,MRS.,Darren,Powers,Clay Ludtke,9/21/1955,S,F,Clay@gmail.com,80000,2,High School,Skilled Manual,N
+1269,MR.,Phillina,Ober,Aimee Bixby,4/5/1955,M,M,Aimee@gmail.com,80000,2,High School,Skilled Manual,Y
+1270,MRS.,Mick,Powers,Nora Pelletier,6/26/1955,S,F,Nora@gmail.com,80000,2,High School,Skilled Manual,Y
+1271,MRS.,Lycoris,Ober,Craig Molinari,2/6/1955,S,F,Craig@gmail.com,80000,2,High School,Skilled Manual,N
+1272,MRS.,Darren,Powers,Scott Williamson,8/14/1956,S,F,Scott@gmail.com,70000,2,High School,Skilled Manual,Y
+1273,MR.,Phillina,Ober,Kean Thornton,8/28/1956,S,M,Kean@gmail.com,70000,2,High School,Skilled Manual,Y
+1274,MRS.,Mick,Powers,Chloris Kastensmidt,11/16/1957,S,F,Chloris@gmail.com,80000,2,High School,Professional,Y
+1275,MR.,Lycoris,Ober,Kelly Andreada,7/13/1957,S,M,Kelly@gmail.com,80000,2,High School,Professional,Y
+1276,MRS.,Darren,Powers,Filia McAdams,9/19/1957,S,F,Filia@gmail.com,80000,2,High School,Professional,N
+1277,MS.,Phillina,Ober,Richard Bierner,1/10/1974,S,F,Richard@gmail.com,40000,0,High School,Professional,N
+1278,MR.,Mick,Powers,Dean Katz,3/11/1959,S,M,Dean@gmail.com,160000,0,Graduate Degree,Management,Y
+1279,MR.,Lycoris,Ober,Christine Kargatis,7/17/1959,M,M,Christine@gmail.com,170000,0,Graduate Degree,Management,Y
+1280,MRS.,Darren,Powers,Jason Fortune-,7/24/1966,M,F,Jason@gmail.com,120000,2,Bachelors,Management,Y
+1281,MR.,Phillina,Ober,Rick Bensley,8/4/1966,S,NA,Rick@gmail.com,130000,0,Graduate Degree,Management,N
+1282,MS.,Mick,Powers,Neil Französisch,3/15/1966,M,F,Neil@gmail.com,130000,0,Graduate Degree,Management,Y
+1283,MR.,Lycoris,Ober,Alan Shonely,9/12/1957,S,M,Alan@gmail.com,80000,2,Partial High School,Skilled Manual,N
+1284,MRS.,Darren,Powers,Bradley Nguyen,7/19/1957,S,F,Bradley@gmail.com,60000,2,High School,Professional,N
+1285,MR.,Phillina,Ober,Christine Phan,12/23/1957,M,M,Christine@gmail.com,70000,2,Partial College,Professional,Y
+1286,MRS.,Mick,Powers,Annie Zypern,10/3/1957,M,F,Annie@gmail.com,70000,3,Partial College,Professional,N
+1287,MRS.,Lycoris,Ober,Quincy Jones,2/5/1957,S,F,Quincy@gmail.com,80000,2,Bachelors,Management,Y
+1288,MR.,Darren,Powers,Sean Miller,12/17/1957,S,M,Sean@gmail.com,90000,2,Partial College,Professional,Y
+1289,MR.,Phillina,Ober,Eileen Kiefer,4/4/1957,M,M,Eileen@gmail.com,90000,2,Partial College,Professional,Y
+1290,MRS.,Mick,Powers,Sample Company A,5/6/1967,M,F,Sample Company@gmail.com,90000,2,Bachelors,Professional,Y
+1291,MS.,Lycoris,Ober,Matt Connell,9/10/1967,M,F,Matt@gmail.com,100000,0,Graduate Degree,Management,Y
+1292,MR.,Darren,Powers,Cassandra Brandow,4/1/1962,S,M,Cassandra@gmail.com,70000,1,Partial College,Skilled Manual,N
+1293,MR.,Phillina,Ober,Thomas Seio,9/1/1962,S,M,Thomas@gmail.com,70000,1,Partial College,Skilled Manual,Y
+1294,MR.,Mick,Powers,Kristen Hastings,8/10/1962,M,M,Kristen@gmail.com,60000,1,Bachelors,Professional,Y
+1295,MR.,Lycoris,Ober,Gary McGarr,10/27/1961,M,M,Gary@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1296,MRS.,Darren,Powers,Craig Carroll,5/1/1961,S,F,Craig@gmail.com,60000,1,Partial College,Skilled Manual,N
+1297,MR.,Phillina,Ober,Beth Fritzler,3/8/1961,M,M,Beth@gmail.com,60000,1,Bachelors,Professional,Y
+1298,MRS.,Mick,Powers,Vivian Mathis,9/15/1960,S,F,Vivian@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1299,MS.,Lycoris,Ober,Patrick O'Donnell,5/8/1965,S,F,Patrick@gmail.com,70000,0,Bachelors,Professional,N
+1300,MRS.,Darren,Powers,Bruce Geld,4/21/1965,S,F,Bruce@gmail.com,80000,5,Bachelors,Professional,Y
+1301,MS.,Phillina,Ober,Carlos Daly,10/17/1964,S,F,Carlos@gmail.com,70000,0,Bachelors,Professional,Y
+1302,MR.,Mick,Powers,Maurice Satty,3/11/1964,M,M,Maurice@gmail.com,70000,0,Bachelors,Professional,N
+1303,MS.,Lycoris,Ober,Christina Anderson,12/28/1964,S,F,Christina@gmail.com,70000,0,Bachelors,Professional,N
+1304,MR.,Darren,Powers,Jonathan Doherty,9/11/1964,S,M,Jonathan@gmail.com,70000,0,Bachelors,Professional,N
+1305,MRS.,Phillina,Ober,Damala Kotsonis,9/9/1959,M,F,Damala@gmail.com,90000,1,Bachelors,Professional,Y
+1306,MS.,Mick,Powers,Cindy Stewart,7/14/1963,S,F,Cindy@gmail.com,70000,0,Bachelors,Professional,N
+1307,MR.,Lycoris,Ober,Christina VanderZanden,11/5/1963,S,M,Christina@gmail.com,70000,0,Bachelors,Professional,N
+1308,MR.,Darren,Powers,Daniel Raglin,6/6/1962,M,M,Daniel@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1309,MRS.,Phillina,Ober,Mike Pelletier,2/23/1962,M,F,Mike@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1310,MRS.,Mick,Powers,Mike Gockenbach,9/9/1962,M,F,Mike@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1311,MR.,Lycoris,Ober,Kunst Miller,2/21/1962,M,M,Kunst@gmail.com,70000,5,Bachelors,Professional,Y
+1312,MRS.,Darren,Powers,Dorris liebe,5/28/1962,S,F,Dorris@gmail.com,70000,5,Partial College,Skilled Manual,Y
+1313,MR.,Phillina,Ober,Susan Gilcrest,2/12/1962,M,M,Susan@gmail.com,70000,5,Partial College,Skilled Manual,Y
+1314,MR.,Mick,Powers,Mark Packer,10/7/1962,M,M,Mark@gmail.com,70000,5,Partial College,Skilled Manual,Y
+1315,MRS.,Lycoris,Ober,Nat Carroll,2/21/1961,M,F,Nat@gmail.com,70000,5,Partial College,Skilled Manual,Y
+1316,MR.,Darren,Powers,Alex Avila,7/3/1957,S,M,Alex@gmail.com,80000,1,Partial College,Skilled Manual,N
+1317,MR.,Phillina,Ober,Jas O'Carroll,4/10/1935,S,M,Jas@gmail.com,30000,2,Partial College,Clerical,N
+1318,MR.,Mick,Powers,Dorothy Dickinson,11/18/1960,M,M,Dorothy@gmail.com,70000,5,Partial College,Skilled Manual,Y
+1319,MR.,Lycoris,Ober,Karen Bern,4/2/1960,M,M,Karen@gmail.com,70000,5,Partial College,Skilled Manual,Y
+1320,MR.,Darren,Powers,Trudy Glocke,6/20/1960,M,M,Trudy@gmail.com,70000,5,Partial College,Skilled Manual,Y
+1321,MR.,Phillina,Ober,Katharine Harms,7/27/1957,S,M,Katharine@gmail.com,80000,1,Partial College,Skilled Manual,Y
+1322,MRS.,Mick,Powers,Rob Dowd,4/8/1956,S,F,Rob@gmail.com,70000,1,Partial College,Skilled Manual,Y
+1323,MR.,Lycoris,Ober,Anna Häberlin,4/7/1949,M,M,Anna@gmail.com,10000,2,High School,Skilled Manual,N
+1324,MS.,Darren,Powers,Katrina Edelman,10/21/1975,M,F,Katrina@gmail.com,40000,0,High School,Skilled Manual,Y
+1325,MS.,Phillina,Ober,Paul Knutson,12/5/1975,M,F,Paul@gmail.com,40000,0,High School,Skilled Manual,Y
+1326,MS.,Mick,Powers,Mary Zewe,8/5/1975,S,F,Mary@gmail.com,40000,0,High School,Skilled Manual,Y
+1327,MS.,Lycoris,Ober,Ken Black,1/6/1980,M,F,Ken@gmail.com,30000,0,High School,Skilled Manual,Y
+1328,MS.,Darren,Powers,Tracy Hopkins,3/12/1980,M,F,Tracy@gmail.com,30000,0,High School,Skilled Manual,N
+1329,MS.,Phillina,Ober,Greg Maxwell,10/26/1980,S,F,Greg@gmail.com,30000,0,High School,Skilled Manual,N
+1330,MS.,Mick,Powers,John Grady,9/8/1980,S,F,John@gmail.com,30000,0,Partial High School,Clerical,N
+1331,MR.,Lycoris,Ober,Ruben Dartt,2/26/1946,S,M,Ruben@gmail.com,10000,5,High School,Skilled Manual,Y
+1332,MR.,Darren,Powers,Roy Phan,11/3/1979,S,M,Roy@gmail.com,30000,0,Partial High School,Clerical,N
+1333,MS.,Phillina,Ober,Guy Phonely,10/26/1978,S,F,Guy@gmail.com,40000,0,High School,Skilled Manual,N
+1334,MS.,Mick,Powers,Scott Cohen,7/20/1978,M,F,Scott@gmail.com,40000,0,High School,Skilled Manual,Y
+1335,MS.,Lycoris,Ober,Andy Yotov,9/15/1978,M,F,Andy@gmail.com,40000,0,High School,Skilled Manual,N
+1336,MRS.,Darren,Powers,Frank Hawley,11/9/1938,S,F,Frank@gmail.com,30000,2,Partial College,Clerical,N
+1337,MR.,Phillina,Ober,Pauline Johnson,2/11/1977,S,M,Pauline@gmail.com,30000,0,Partial High School,Clerical,N
+1338,MS.,Mick,Powers,Roland Schwarz,6/21/1977,M,F,Roland@gmail.com,40000,0,High School,Skilled Manual,N
+1339,MR.,Lycoris,Ober,Valerie Mitchum,8/14/1977,S,M,Valerie@gmail.com,40000,0,High School,Skilled Manual,N
+1340,MR.,Darren,Powers,Jim Mitchum,2/4/1977,M,M,Jim@gmail.com,40000,0,High School,Skilled Manual,Y
+1341,MR.,Phillina,Ober,Ruben Ausman,9/9/1979,S,M,Ruben@gmail.com,40000,0,High School,Skilled Manual,N
+1342,MS.,Mick,Powers,Pauline Chand,12/8/1979,S,F,Pauline@gmail.com,40000,0,High School,Skilled Manual,N
+1343,MRS.,Lycoris,Ober,John Stevenson,8/26/1939,S,F,John@gmail.com,40000,2,Bachelors,Management,Y
+1344,MR.,Darren,Powers,Jay Kimmel,2/5/1939,M,M,Jay@gmail.com,60000,2,Graduate Degree,Management,Y
+1345,MR.,Phillina,Ober,Sanjit Engle,8/16/1941,M,M,Sanjit@gmail.com,40000,2,Bachelors,Management,Y
+1346,MR.,Mick,Powers,Gary Mitchum,4/20/1941,M,M,Gary@gmail.com,40000,2,Bachelors,Management,Y
+1347,MR.,Lycoris,Ober,Michelle Moray,3/15/1941,S,M,Michelle@gmail.com,40000,2,Bachelors,Management,Y
+1348,MRS.,Darren,Powers,Kean Nguyen,2/25/1942,S,F,Kean@gmail.com,60000,2,Graduate Degree,Management,N
+1349,MR.,Phillina,Ober,Stewart Visinsky,1/10/1976,S,M,Stewart@gmail.com,40000,0,High School,Skilled Manual,Y
+1350,MS.,Mick,Powers,Edward Hooks,6/23/1976,M,F,Edward@gmail.com,40000,0,High School,Skilled Manual,Y
+1351,MS.,Lycoris,Ober,Ben Ferrer,8/21/1976,S,F,Ben@gmail.com,40000,0,Partial College,Skilled Manual,Y
+1352,MR.,Darren,Powers,Paul Stevenson,1/26/1976,S,M,Paul@gmail.com,40000,0,Partial College,Skilled Manual,N
+1353,MS.,Phillina,Ober,Stephanie Phelps,2/7/1976,S,F,Stephanie@gmail.com,40000,0,Partial College,Skilled Manual,N
+1354,MS.,Mick,Powers,John Lee,6/11/1975,M,F,John@gmail.com,40000,0,High School,Skilled Manual,Y
+1355,MR.,Lycoris,Ober,Nicole Fjeld,10/8/1975,S,M,Nicole@gmail.com,40000,0,High School,Skilled Manual,Y
+1356,MS.,Darren,Powers,Allen Goldenen,9/17/1975,S,F,Allen@gmail.com,40000,0,High School,Skilled Manual,N
+1357,MR.,Phillina,Ober,Benjamin Patterson,1/8/1974,S,M,Benjamin@gmail.com,40000,0,Partial College,Skilled Manual,N
+1358,MS.,Mick,Powers,Allen Armold,4/22/1974,S,F,Allen@gmail.com,40000,0,Partial College,Skilled Manual,N
+1359,MR.,Lycoris,Ober,Dorothy Badders,3/5/1974,S,M,Dorothy@gmail.com,40000,0,Partial College,Skilled Manual,Y
+1360,MR.,Darren,Powers,Aaron Hawkins,12/20/1974,M,M,Aaron@gmail.com,40000,0,Partial College,Skilled Manual,Y
+1361,MR.,Phillina,Ober,Theresa Swint,5/5/1974,S,M,Theresa@gmail.com,40000,0,Partial College,Skilled Manual,N
+1362,MS.,Mick,Powers,Laurel Beltran,7/18/1973,M,F,Laurel@gmail.com,60000,0,Partial College,Skilled Manual,N
+1363,MS.,Lycoris,Ober,Dianna Arnett,4/24/1972,S,F,Dianna@gmail.com,70000,0,Partial College,Skilled Manual,N
+1364,MS.,Darren,Powers,Lena Creighton,8/1/1972,S,F,Lena@gmail.com,80000,0,Bachelors,Management,N
+1365,MR.,Phillina,Ober,Beth Thompson,5/15/1968,S,M,Beth@gmail.com,80000,0,Bachelors,Management,N
+1366,MR.,Mick,Powers,Aleksandra Gannaway,6/22/1968,M,M,Aleksandra@gmail.com,90000,4,Bachelors,Management,Y
+1367,MRS.,Lycoris,Ober,Marc Harrigan,2/5/1968,M,F,Marc@gmail.com,90000,4,Bachelors,Management,Y
+1368,MR.,Darren,Powers,Muhammed Yedwab,10/9/1967,S,M,Muhammed@gmail.com,100000,1,Bachelors,Management,Y
+1369,MRS.,Phillina,Ober,George Bell,11/21/1967,M,F,George@gmail.com,100000,1,Bachelors,Management,Y
+1370,MS.,Mick,Powers,Arianne Irving,9/1/1967,S,F,Arianne@gmail.com,110000,0,Graduate Degree,Management,N
+1371,MR.,Lycoris,Ober,David Smith,7/13/1967,M,M,David@gmail.com,110000,0,Graduate Degree,Management,Y
+1372,MR.,Darren,Powers,Lauren Leatherbury,3/5/1963,S,M,Lauren@gmail.com,70000,0,Partial College,Skilled Manual,Y
+1373,MR.,Phillina,Ober,Harry Greene,1/25/1968,M,M,Harry@gmail.com,90000,4,Bachelors,Management,Y
+1374,MR.,Mick,Powers,Laura Armstrong,7/4/1942,M,M,Laura@gmail.com,110000,2,Graduate Degree,Management,Y
+1375,MR.,Lycoris,Ober,Katherine Hughes,8/24/1943,M,M,Katherine@gmail.com,100000,2,Graduate Degree,Management,Y
+1376,MRS.,Darren,Powers,Justin MacKendrick,6/14/1943,M,F,Justin@gmail.com,120000,2,Graduate Degree,Management,Y
+1377,MRS.,Phillina,Ober,Andrew Roberts,1/2/1943,M,F,Andrew@gmail.com,160000,1,Bachelors,Management,Y
+1378,MR.,Mick,Powers,Cari Schnelling,8/8/1943,M,M,Cari@gmail.com,170000,2,Graduate Degree,Management,Y
+1379,MRS.,Lycoris,Ober,Joni Sundaresam,8/25/1944,S,F,Joni@gmail.com,70000,4,Bachelors,Management,Y
+1380,MRS.,Darren,Powers,Nathan Cano,7/15/1944,S,F,Nathan@gmail.com,70000,4,Bachelors,Management,Y
+1381,MRS.,Phillina,Ober,Paul MacIntyre,11/16/1944,S,F,Paul@gmail.com,70000,4,Bachelors,Management,Y
+1382,MRS.,Mick,Powers,Andrew Allen,10/8/1944,S,F,Andrew@gmail.com,70000,4,Bachelors,Management,Y
+1383,MRS.,Lycoris,Ober,Bill Shonely,5/21/1944,S,F,Bill@gmail.com,70000,4,Bachelors,Management,Y
+1384,MRS.,Darren,Powers,Peter Fuller,2/22/1944,M,F,Peter@gmail.com,60000,4,Graduate Degree,Management,Y
+1385,MRS.,Phillina,Ober,Emily Burns,9/6/1944,M,F,Emily@gmail.com,60000,4,Graduate Degree,Management,N
+1386,MR.,Mick,Powers,Giulietta Dortch,6/22/1944,M,M,Giulietta@gmail.com,70000,5,Bachelors,Management,Y
+1387,MRS.,Lycoris,Ober,Harold Pawlan,12/18/1945,S,F,Harold@gmail.com,70000,5,Bachelors,Management,Y
+1388,MR.,Darren,Powers,Steve Nguyen,9/13/1945,M,M,Steve@gmail.com,60000,4,Bachelors,Management,Y
+1389,MR.,Phillina,Ober,Carol Triggs,2/13/1945,M,M,Carol@gmail.com,60000,4,Bachelors,Management,Y
+1390,MRS.,Mick,Powers,Patrick Gardner,6/10/1945,M,F,Patrick@gmail.com,60000,4,Bachelors,Management,Y
+1391,MRS.,Lycoris,Ober,Sean Braxton,2/10/1946,M,F,Sean@gmail.com,60000,5,Bachelors,Management,Y
+1392,MR.,Darren,Powers,Art Foster,6/7/1946,M,M,Art@gmail.com,60000,5,Bachelors,Management,Y
+1393,MRS.,Phillina,Ober,Greg Matthias,6/18/1946,M,F,Greg@gmail.com,70000,3,Bachelors,Management,N
+1394,MRS.,Mick,Powers,Paul Gonzalez,11/26/1946,S,F,Paul@gmail.com,70000,4,Bachelors,Management,Y
+1395,MRS.,Lycoris,Ober,Raymond Messe,11/6/1946,M,F,Raymond@gmail.com,70000,4,Bachelors,Management,Y
+1396,MR.,Darren,Powers,Brooke Gillingham,11/22/1947,M,M,Brooke@gmail.com,70000,4,Bachelors,Management,Y
+1397,MRS.,Phillina,Ober,Victoria Wilson,8/18/1947,M,F,Victoria@gmail.com,70000,4,Bachelors,Management,Y
+1398,MRS.,Mick,Powers,Harold Dahlen,8/26/1947,M,F,Harold@gmail.com,80000,5,Bachelors,Management,N
+1399,MR.,Lycoris,Ober,Alejandro Grove,8/21/1948,M,M,Alejandro@gmail.com,40000,2,High School,Professional,Y
+1400,MRS.,Darren,Powers,Erica Hernandez,7/24/1948,M,F,Erica@gmail.com,40000,2,High School,Professional,Y
+1401,MR.,Phillina,Ober,Naresj Patel,9/24/1948,M,M,Naresj@gmail.com,60000,2,Partial College,Professional,Y
+1402,MRS.,Mick,Powers,Anthony Johnson,7/19/1948,S,F,Anthony@gmail.com,60000,2,Partial College,Professional,Y
+1403,MRS.,Lycoris,Ober,Pauline Webber,2/4/1948,M,F,Pauline@gmail.com,60000,2,Bachelors,Management,Y
+1404,MRS.,Darren,Powers,Cindy Chapman,1/13/1948,M,F,Cindy@gmail.com,60000,2,Bachelors,Management,Y
+1405,MR.,Phillina,Ober,Pete Armstrong,6/8/1948,M,M,Pete@gmail.com,70000,4,Partial College,Professional,Y
+1406,MRS.,Mick,Powers,Bruce Stewart,10/12/1949,M,F,Bruce@gmail.com,40000,2,High School,Professional,Y
+1407,MRS.,Lycoris,Ober,Ted Trevino,11/5/1949,M,F,Ted@gmail.com,40000,2,High School,Professional,Y
+1408,MRS.,Darren,Powers,George Ashbrook,5/14/1949,S,F,George@gmail.com,60000,2,Partial College,Professional,Y
+1409,MR.,Phillina,Ober,John Huston,11/7/1949,S,M,John@gmail.com,60000,2,Partial College,Professional,Y
+1410,MRS.,Mick,Powers,Tamara Dahlen,6/21/1950,M,F,Tamara@gmail.com,40000,2,Partial High School,Skilled Manual,Y
+1411,MRS.,Lycoris,Ober,Randy Ferguson,5/20/1950,S,F,Randy@gmail.com,60000,2,Partial College,Professional,Y
+1412,MRS.,Darren,Powers,Matt Collister,2/11/1950,S,F,Matt@gmail.com,60000,2,Partial College,Professional,Y
+1413,MRS.,Phillina,Ober,Mitch Willingham,9/11/1950,S,F,Mitch@gmail.com,60000,2,Partial College,Professional,N
+1414,MR.,Mick,Powers,Bradley Talbott,12/2/1950,M,M,Bradley@gmail.com,60000,2,High School,Professional,Y
+1415,MRS.,Lycoris,Ober,Frank Gastineau,2/23/1950,M,F,Frank@gmail.com,60000,2,Partial College,Professional,Y
+1416,MR.,Darren,Powers,Evan Henry,6/10/1950,M,M,Evan@gmail.com,70000,4,Partial College,Professional,Y
+1417,MRS.,Phillina,Ober,Greg Tran,8/17/1950,M,F,Greg@gmail.com,80000,3,Bachelors,Management,Y
+1418,MRS.,Mick,Powers,Resi Pölking,9/16/1951,S,F,Resi@gmail.com,70000,2,High School,Professional,Y
+1419,MRS.,Lycoris,Ober,Janet Lee,9/6/1951,S,F,Janet@gmail.com,70000,2,High School,Professional,Y
+1420,MRS.,Darren,Powers,Barry Weirich,9/27/1951,M,F,Barry@gmail.com,60000,2,Partial College,Professional,Y
+1421,MR.,Phillina,Ober,Herbert Flentye,8/12/1951,S,M,Herbert@gmail.com,60000,2,Partial College,Professional,Y
+1422,MRS.,Mick,Powers,Dean percer,4/19/1951,M,F,Dean@gmail.com,60000,2,Partial College,Professional,Y
+1423,MR.,Lycoris,Ober,Maya Herman,12/3/1951,S,M,Maya@gmail.com,70000,4,Partial College,Professional,Y
+1424,MRS.,Darren,Powers,Laurel Elliston,4/3/1951,M,F,Laurel@gmail.com,70000,4,Partial College,Professional,N
+1425,MR.,Phillina,Ober,Patrick Jones,11/14/1952,M,M,Patrick@gmail.com,60000,2,High School,Professional,Y
+1426,MRS.,Mick,Powers,Magdelene Morse,9/27/1952,M,F,Magdelene@gmail.com,60000,3,High School,Professional,N
+1427,MR.,Lycoris,Ober,Ellis Ballard,9/9/1952,M,M,Ellis@gmail.com,70000,4,Partial College,Professional,Y
+1428,MR.,Darren,Powers,Shahid Shariari,11/19/1952,S,NA,Shahid@gmail.com,70000,4,Partial College,Professional,Y
+1429,MR.,Phillina,Ober,James Galang,2/8/1952,M,M,James@gmail.com,70000,4,Partial College,Professional,Y
+1430,MR.,Mick,Powers,Laurel Workman,3/5/1952,S,M,Laurel@gmail.com,70000,5,Partial College,Professional,Y
+1431,MR.,Lycoris,Ober,Mark Cousins,9/23/1958,S,M,Mark@gmail.com,130000,2,Bachelors,Management,N
+1432,MRS.,Darren,Powers,Jim Karlsson,8/10/1958,S,F,Jim@gmail.com,130000,2,Bachelors,Management,N
+1433,MRS.,Phillina,Ober,Dianna Wilson,10/6/1958,M,F,Dianna@gmail.com,130000,2,Partial College,Professional,N
+1434,MRS.,Mick,Powers,Corey Roper,12/11/1958,M,F,Corey@gmail.com,160000,2,Partial College,Professional,Y
+1435,MRS.,Lycoris,Ober,Liz Thompson,10/11/1957,S,F,Liz@gmail.com,100000,2,Partial College,Professional,Y
+1436,MR.,Darren,Powers,Steven Cartwright,11/11/1957,M,M,Steven@gmail.com,110000,2,Partial College,Professional,Y
+1437,MRS.,Phillina,Ober,Ross Baird,10/9/1957,M,F,Ross@gmail.com,150000,2,Partial College,Professional,Y
+1438,MRS.,Mick,Powers,Richard Eichhorn,11/26/1957,S,F,Richard@gmail.com,170000,2,Bachelors,Management,N
+1439,MR.,Lycoris,Ober,Bobby Trafton,10/27/1956,M,M,Bobby@gmail.com,120000,3,High School,Professional,N
+1440,MRS.,Darren,Powers,Bryan Mills,6/6/1956,S,F,Bryan@gmail.com,130000,3,Partial College,Professional,N
+1441,MR.,Phillina,Ober,Grant Thornton,3/26/1955,M,M,Grant@gmail.com,110000,3,Partial College,Professional,Y
+1442,MRS.,Mick,Powers,Sarah Bern,7/13/1955,M,F,Sarah@gmail.com,130000,3,Partial College,Professional,Y
+1443,MRS.,Lycoris,Ober,Valerie Takahito,3/12/1955,M,F,Valerie@gmail.com,170000,3,High School,Professional,Y
+1444,MR.,Darren,Powers,Bart Pistole,7/4/1932,S,M,Bart@gmail.com,30000,4,High School,Professional,N
+1445,MR.,Phillina,Ober,Nick Radford,6/7/1932,S,M,Nick@gmail.com,90000,3,Graduate Degree,Management,Y
+1446,MR.,Mick,Powers,Carlos Soltero,2/28/1933,M,M,Carlos@gmail.com,60000,2,Graduate Degree,Management,Y
+1447,MR.,Lycoris,Ober,Rick Duston,3/3/1933,M,M,Rick@gmail.com,70000,4,Graduate Degree,Management,Y
+1448,MR.,Darren,Powers,Brosina Hoffman,4/4/1933,M,M,Brosina@gmail.com,70000,4,Graduate Degree,Management,Y
+1449,MRS.,Phillina,Ober,Carl Weiss,9/20/1933,M,F,Carl@gmail.com,70000,4,Graduate Degree,Management,Y
+1450,MRS.,Mick,Powers,Chuck Magee,1/6/1933,S,F,Chuck@gmail.com,120000,1,Graduate Degree,Management,Y
+1451,MR.,Lycoris,Ober,Frank Olsen,6/28/1933,M,M,Frank@gmail.com,120000,1,Graduate Degree,Management,Y
+1452,MRS.,Darren,Powers,Heather Kirkland,3/27/1965,M,F,Heather@gmail.com,100000,4,Partial College,Professional,Y
+1453,MRS.,Phillina,Ober,Sharelle Roach,4/12/1965,M,F,Sharelle@gmail.com,110000,2,Bachelors,Management,Y
+1454,MRS.,Mick,Powers,Kelly Lampkin,4/24/1965,M,F,Kelly@gmail.com,130000,1,Graduate Degree,Management,Y
+1455,MRS.,Lycoris,Ober,Pamela Stobb,5/4/1964,M,F,Pamela@gmail.com,80000,4,Bachelors,Management,Y
+1456,MRS.,Darren,Powers,Sonia Cooley,9/11/1964,M,F,Sonia@gmail.com,90000,5,Partial College,Professional,Y
+1457,MR.,Phillina,Ober,Duane Benoit,6/17/1964,S,M,Duane@gmail.com,90000,5,Partial College,Professional,N
+1458,MRS.,Mick,Powers,Gary Hwang,7/13/1964,M,F,Gary@gmail.com,90000,5,Partial College,Professional,Y
+1459,MS.,Lycoris,Ober,Jennifer Ferguson,5/5/1964,S,F,Jennifer@gmail.com,90000,0,Partial College,Professional,N
+1460,MR.,Darren,Powers,Mick Crebagga,10/2/1964,S,M,Mick@gmail.com,120000,4,Partial College,Professional,Y
+1461,MRS.,Phillina,Ober,Corey-Lock,5/3/1964,M,F,Corey@gmail.com,130000,2,Graduate Degree,Management,Y
+1462,MR.,Mick,Powers,Natalie Webber,10/13/1964,M,M,Natalie@gmail.com,130000,2,Graduate Degree,Management,Y
+1463,MR.,Lycoris,Ober,Toby Braunhardt,5/4/1964,M,M,Toby@gmail.com,130000,2,Graduate Degree,Management,Y
+1464,MRS.,Darren,Powers,Joel Eaton,6/5/1964,S,F,Joel@gmail.com,150000,2,Bachelors,Management,N
+1465,MRS.,Phillina,Ober,Dianna Vittorini,11/10/1956,S,F,Dianna@gmail.com,70000,4,Partial College,Professional,Y
+1466,MR.,Mick,Powers,Anna Andreadi,10/1/1956,M,M,Anna@gmail.com,90000,2,Partial College,Professional,Y
+1467,MR.,Lycoris,Ober,Brian Stugart,4/12/1934,M,M,Brian@gmail.com,50000,2,Graduate Degree,Management,Y
+1468,MRS.,Darren,Powers,Denise Leinenbach,1/18/1934,M,F,Denise@gmail.com,80000,4,Graduate Degree,Management,Y
+1469,MRS.,Phillina,Ober,Liz Pelletier,9/19/1963,M,F,Liz@gmail.com,80000,4,Partial College,Professional,Y
+1470,MR.,Mick,Powers,Noel Staavos,6/10/1963,M,M,Noel@gmail.com,80000,4,Partial College,Professional,Y
+1471,MR.,Lycoris,Ober,Grace Kelly,8/20/1963,S,M,Grace@gmail.com,90000,0,Partial College,Professional,N
+1472,MS.,Darren,Powers,Liz MacKendrick,9/12/1963,M,F,Liz@gmail.com,90000,0,Partial College,Professional,Y
+1473,MR.,Phillina,Ober,Cynthia Arntzen,8/21/1963,M,M,Cynthia@gmail.com,90000,0,Partial College,Professional,Y
+1474,MRS.,Mick,Powers,Rob Williams,10/10/1963,S,F,Rob@gmail.com,110000,4,Bachelors,Management,Y
+1475,MR.,Lycoris,Ober,Dan Lawera,1/16/1962,M,M,Dan@gmail.com,90000,5,Partial College,Professional,Y
+1476,MR.,Darren,Powers,Helen Abelman,10/26/1962,M,M,Helen@gmail.com,110000,1,Bachelors,Management,Y
+1477,MRS.,Phillina,Ober,Russell Applegate,3/27/1962,M,F,Russell@gmail.com,110000,1,Bachelors,Management,Y
+1478,MR.,Mick,Powers,Anthony Rawles,3/19/1962,M,M,Anthony@gmail.com,120000,1,Partial College,Professional,N
+1479,MR.,Lycoris,Ober,Michael Stewart,3/3/1962,M,M,Michael@gmail.com,170000,0,Graduate Degree,Management,Y
+1480,MR.,Darren,Powers,Brian DeCherney,1/16/1961,M,M,Brian@gmail.com,70000,5,Partial College,Professional,N
+1481,MRS.,Phillina,Ober,Eric Hoffmann,9/16/1961,M,F,Eric@gmail.com,110000,1,Bachelors,Management,Y
+1482,MRS.,Mick,Powers,Maxwell Schwartz,3/7/1961,M,F,Maxwell@gmail.com,130000,1,Bachelors,Management,Y
+1483,MRS.,Lycoris,Ober,Michael Chen,8/18/1961,M,F,Michael@gmail.com,130000,1,Bachelors,Management,Y
+1484,MRS.,Darren,Powers,Dan Campbell,5/5/1961,M,F,Dan@gmail.com,130000,1,Bachelors,Management,Y
+1485,MR.,Phillina,Ober,Dennis Pardue,11/5/1961,S,M,Dennis@gmail.com,150000,1,Partial College,Professional,N
+1486,MR.,Mick,Powers,Don Miller,5/27/1955,S,M,Don@gmail.com,60000,2,High School,Professional,N
+1487,MR.,Lycoris,Ober,Emily Phan,9/3/1955,M,M,Emily@gmail.com,60000,2,High School,Professional,N
+1488,MRS.,Darren,Powers,Becky Castell,5/16/1954,S,F,Becky@gmail.com,80000,2,Partial High School,Skilled Manual,Y
+1489,MRS.,Phillina,Ober,Michelle Huthwaite,10/7/1935,S,F,Michelle@gmail.com,50000,2,Graduate Degree,Management,Y
+1490,MR.,Mick,Powers,Ed Braxton,2/2/1935,S,M,Ed@gmail.com,70000,4,Graduate Degree,Management,Y
+1491,MR.,Lycoris,Ober,Brian Moss,3/3/1935,M,M,Brian@gmail.com,70000,4,Graduate Degree,Management,Y
+1492,MR.,Darren,Powers,Gary Hansen,4/1/1936,M,M,Gary@gmail.com,70000,4,Graduate Degree,Management,Y
+1493,MR.,Phillina,Ober,Darrin Sayre,3/3/1960,M,M,Darrin@gmail.com,80000,5,Partial College,Professional,N
+1494,MR.,Mick,Powers,Mark Hamilton,6/9/1960,M,M,Mark@gmail.com,80000,5,Partial College,Professional,Y
+1495,MR.,Lycoris,Ober,Jamie Kunitz,12/12/1960,S,M,Jamie@gmail.com,90000,4,High School,Professional,N
+1496,MRS.,Darren,Powers,Alyssa Crouse,10/11/1960,S,F,Alyssa@gmail.com,90000,4,High School,Professional,N
+1497,MS.,Phillina,Ober,Max Engle,3/17/1960,M,F,Max@gmail.com,100000,0,Partial College,Professional,Y
+1498,MR.,Mick,Powers,Paul Van Hugh,6/19/1960,M,M,Paul Van@gmail.com,110000,3,Partial College,Professional,N
+1499,MR.,Lycoris,Ober,Arthur Wiediger,6/22/1960,M,M,Arthur@gmail.com,110000,3,Partial College,Professional,N
+1500,MR.,Darren,Powers,Philip Brown,11/4/1954,M,M,Philip@gmail.com,80000,2,Partial High School,Skilled Manual,Y
+1501,MR.,Phillina,Ober,Shirley Schmidt,3/5/1954,M,M,Shirley@gmail.com,60000,2,High School,Professional,N
+1502,MRS.,Mick,Powers,Barbara Fisher,6/12/1954,S,F,Barbara@gmail.com,60000,2,High School,Professional,Y
+1503,MRS.,Lycoris,Ober,Adrian Hane,7/9/1953,S,F,Adrian@gmail.com,70000,3,Graduate Degree,Management,Y
+1504,MRS.,Darren,Powers,Jack Lebron,8/24/1953,S,F,Jack@gmail.com,70000,3,Graduate Degree,Management,N
+1505,MRS.,Phillina,Ober,Christine Abelman,4/3/1953,S,F,Christine@gmail.com,70000,3,Graduate Degree,Management,Y
+1506,MR.,Mick,Powers,Eugene Moren,2/27/1953,S,M,Eugene@gmail.com,70000,3,Graduate Degree,Management,Y
+1507,MRS.,Lycoris,Ober,Katherine Murray,10/1/1953,S,F,Katherine@gmail.com,70000,3,Graduate Degree,Management,N
+1508,MR.,Darren,Powers,Scot Wooten,11/17/1953,M,M,Scot@gmail.com,60000,3,Graduate Degree,Management,Y
+1509,MRS.,Phillina,Ober,Charles Crestani,9/17/1952,S,F,Charles@gmail.com,40000,3,Partial College,Professional,N
+1510,MRS.,Mick,Powers,Roger Demir,10/26/1952,S,F,Roger@gmail.com,40000,3,Partial College,Professional,N
+1511,MRS.,Lycoris,Ober,Michelle Ellison,4/27/1937,M,F,Michelle@gmail.com,70000,4,Graduate Degree,Management,N
+1512,MRS.,Darren,Powers,Harry Marie,6/26/1937,M,F,Harry@gmail.com,80000,4,Graduate Degree,Management,Y
+1513,MR.,Phillina,Ober,Erin Mull,7/8/1938,M,M,Erin@gmail.com,90000,5,Bachelors,Management,Y
+1514,MRS.,Mick,Powers,Alejandro Ballentine,3/15/1938,M,F,Alejandro@gmail.com,90000,5,Bachelors,Management,Y
+1515,MR.,Lycoris,Ober,John Lucas,6/20/1938,S,M,John@gmail.com,120000,2,Graduate Degree,Management,Y
+1516,MR.,Darren,Powers,Arthur Gainer,5/14/1939,M,M,Arthur@gmail.com,90000,5,Bachelors,Management,Y
+1517,MR.,Phillina,Ober,Nick Crebassa,7/2/1939,S,M,Nick@gmail.com,90000,5,Bachelors,Management,Y
+1518,MR.,Mick,Powers,Ken Lonsdale,6/26/1939,M,M,Ken@gmail.com,130000,2,Bachelors,Management,Y
+1519,MR.,Lycoris,Ober,Carl Ludwig,3/4/1940,M,M,Carl@gmail.com,90000,5,Bachelors,Management,Y
+1520,MR.,Darren,Powers,Sheri Gordon,1/1/1940,M,M,Sheri@gmail.com,90000,5,Bachelors,Management,Y
+1521,MR.,Phillina,Ober,Luke Foster,7/25/1940,S,M,Luke@gmail.com,90000,5,Bachelors,Management,Y
+1522,MR.,Mick,Powers,Aaron Smayling,5/13/1940,M,M,Aaron@gmail.com,110000,2,Graduate Degree,Management,Y
+1523,MRS.,Lycoris,Ober,Barry Blumstein,7/6/1968,M,F,Barry@gmail.com,90000,4,Partial College,Skilled Manual,Y
+1524,MRS.,Darren,Powers,Tom Stivers,10/4/1962,S,F,Tom@gmail.com,10000,1,Graduate Degree,Manual,Y
+1525,MRS.,Phillina,Ober,Ivan Liston,7/10/1962,M,F,Ivan@gmail.com,20000,1,Graduate Degree,Clerical,Y
+1526,MRS.,Mick,Powers,Ann Steele,3/22/1961,M,F,Ann@gmail.com,10000,1,Bachelors,Manual,Y
+1527,MRS.,Lycoris,Ober,Nick Zandusky,6/24/1961,M,F,Nick@gmail.com,10000,1,Bachelors,Manual,Y
+1528,MR.,Darren,Powers,Berenike Kampe,3/12/1962,M,M,Berenike@gmail.com,20000,1,Graduate Degree,Clerical,Y
+1529,MR.,Phillina,Ober,Valerie Dominguez,9/21/1961,M,M,Valerie@gmail.com,10000,1,Bachelors,Manual,Y
+1530,MR.,Mick,Powers,Chad Sievert,8/10/1961,M,M,Chad@gmail.com,20000,1,Graduate Degree,Clerical,Y
+1531,MR.,Lycoris,Ober,Sonia Sunley,7/8/1961,S,M,Sonia@gmail.com,20000,1,Graduate Degree,Clerical,Y
+1532,MRS.,Darren,Powers,Ricardo Sperren,4/6/1936,M,F,Ricardo@gmail.com,10000,1,Graduate Degree,Clerical,Y
+1533,MR.,Phillina,Ober,Gary Zandusky,8/21/1936,M,M,Gary@gmail.com,20000,1,Graduate Degree,Clerical,Y
+1534,MR.,Mick,Powers,Roland Fjeld,3/11/1962,M,M,Roland@gmail.com,30000,5,Graduate Degree,Clerical,Y
+1535,MR.,Lycoris,Ober,Trudy Brown,9/13/1958,M,M,Trudy@gmail.com,10000,1,Bachelors,Manual,Y
+1536,MRS.,Darren,Powers,Lena Radford,7/24/1957,M,F,Lena@gmail.com,10000,1,Partial College,Manual,Y
+1537,MRS.,Phillina,Ober,Maria Bertelson,3/12/1957,S,F,Maria@gmail.com,10000,1,Partial College,Manual,Y
+1538,MRS.,Mick,Powers,Matt Abelman,5/22/1955,S,F,Matt@gmail.com,10000,2,Partial College,Manual,Y
+1539,MR.,Lycoris,Ober,Vivek Gonzalez,12/23/1955,M,M,Vivek@gmail.com,10000,2,Partial College,Manual,Y
+1540,MR.,Darren,Powers,Andy Gerbode,9/22/1955,M,M,Andy@gmail.com,10000,2,Partial College,Manual,Y
+1541,MRS.,Phillina,Ober,Emily Ducich,9/3/1954,M,F,Emily@gmail.com,10000,2,Partial College,Manual,Y
+1542,MRS.,Mick,Powers,Matthew Grinstein,1/14/1937,M,F,Matthew@gmail.com,30000,1,Graduate Degree,Clerical,Y
+1543,MRS.,Lycoris,Ober,Joseph Holt,4/6/1939,S,F,Joseph@gmail.com,20000,1,Bachelors,Clerical,Y
+1544,MR.,Darren,Powers,Gene McClure,3/7/1940,M,M,Gene@gmail.com,10000,2,Partial College,Manual,Y
+1545,MRS.,Phillina,Ober,Charles Sheldon,6/11/1941,S,F,Charles@gmail.com,30000,1,Bachelors,Clerical,Y
+1546,MRS.,Mick,Powers,Ben Wallace,2/23/1942,M,F,Ben@gmail.com,20000,1,Partial College,Manual,Y
+1547,MR.,Lycoris,Ober,Duane Huffman,12/28/1942,M,M,Duane@gmail.com,40000,1,Graduate Degree,Clerical,Y
+1548,MR.,Darren,Powers,Keith Herrera,5/27/1980,S,M,Keith@gmail.com,10000,0,Partial College,Manual,N
+1549,MR.,Phillina,Ober,Christine Sundaresam,3/23/1979,S,M,Christine@gmail.com,10000,0,Partial College,Manual,N
+1550,MS.,Mick,Powers,Troy Staebel,11/11/1978,S,F,Troy@gmail.com,10000,0,Partial College,Manual,N
+1551,MR.,Lycoris,Ober,Don Jones,9/4/1978,S,M,Don@gmail.com,10000,0,Partial College,Manual,N
+1552,MR.,Darren,Powers,Lena Hernandez,8/2/1978,S,M,Lena@gmail.com,10000,0,Partial College,Manual,Y
+1553,MS.,Phillina,Ober,Craig Reiter,4/28/1977,M,F,Craig@gmail.com,10000,0,High School,Manual,Y
+1554,MR.,Mick,Powers,Deanra Eno,11/11/1977,M,M,Deanra@gmail.com,10000,0,High School,Manual,N
+1555,MR.,Lycoris,Ober,Jeremy Pistek,10/20/1977,S,M,Jeremy@gmail.com,10000,0,High School,Manual,N
+1556,MRS.,Darren,Powers,Rick Hansen,6/9/1979,S,F,Rick@gmail.com,10000,1,High School,Manual,N
+1557,MS.,Phillina,Ober,Robert Barroso,10/25/1979,M,F,Robert@gmail.com,20000,0,Bachelors,Clerical,Y
+1558,MR.,Mick,Powers,Arthur Prichep,2/22/1979,M,M,Arthur@gmail.com,20000,0,Bachelors,Clerical,Y
+1559,MR.,Lycoris,Ober,Jennifer Patt,11/25/1978,S,M,Jennifer@gmail.com,10000,1,High School,Manual,N
+1560,MS.,Darren,Powers,Dorothy Wardle,8/4/1978,M,F,Dorothy@gmail.com,20000,0,Bachelors,Clerical,N
+1561,MS.,Phillina,Ober,Ryan Crowe,4/1/1978,M,F,Ryan@gmail.com,20000,0,Bachelors,Clerical,Y
+1562,MS.,Mick,Powers,Janet Molinari,5/27/1978,M,F,Janet@gmail.com,20000,0,Bachelors,Clerical,Y
+1563,MS.,Lycoris,Ober,Mitch Webber,5/15/1978,S,F,Mitch@gmail.com,20000,0,Bachelors,Clerical,Y
+1564,MRS.,Darren,Powers,Joe Elijah,9/20/1943,M,F,Joe@gmail.com,30000,1,Bachelors,Clerical,Y
+1565,MR.,Phillina,Ober,Frank Merwin,6/28/1943,S,M,Frank@gmail.com,30000,1,Bachelors,Clerical,Y
+1566,MR.,Mick,Powers,Karl Braun,5/9/1943,M,M,Karl@gmail.com,30000,1,Bachelors,Clerical,Y
+1567,MR.,Lycoris,Ober,Paul Prost,6/10/1943,S,M,Paul@gmail.com,40000,1,Graduate Degree,Clerical,Y
+1568,MR.,Darren,Powers,Zuschuss Donatelli,2/23/1961,M,M,Zuschuss@gmail.com,30000,4,Graduate Degree,Clerical,Y
+1569,MRS.,Phillina,Ober,Corey Catlett,5/22/1960,S,F,Corey@gmail.com,10000,1,High School,Manual,N
+1570,MR.,Mick,Powers,Hilary Holden,11/18/1959,M,M,Hilary@gmail.com,10000,1,High School,Manual,Y
+1571,MR.,Lycoris,Ober,Ryan Akin,3/2/1959,S,M,Ryan@gmail.com,20000,2,Partial College,Manual,Y
+1572,MRS.,Darren,Powers,Annie Thurman,8/22/1959,M,F,Annie@gmail.com,20000,2,Partial College,Manual,Y
+1573,MR.,Phillina,Ober,Shirley Jackson,1/19/1958,M,M,Shirley@gmail.com,20000,2,Partial College,Manual,Y
+1574,MRS.,Mick,Powers,Larry Tron,10/16/1960,M,F,Larry@gmail.com,30000,3,Bachelors,Clerical,Y
+1575,MR.,Lycoris,Ober,Katherine Ducich,8/11/1960,S,M,Katherine@gmail.com,30000,3,Bachelors,Clerical,Y
+1576,MRS.,Darren,Powers,Mathew Reese,6/2/1959,S,F,Mathew@gmail.com,40000,3,Graduate Degree,Clerical,Y
+1577,MR.,Phillina,Ober,Nora Preis,7/24/1959,M,M,Nora@gmail.com,40000,3,Graduate Degree,Clerical,Y
+1578,MR.,Mick,Powers,Patrick Ryan,4/24/1970,S,M,Patrick@gmail.com,10000,1,High School,Manual,N
+1579,MRS.,Lycoris,Ober,Victoria Pisteka,10/19/1970,S,F,Victoria@gmail.com,10000,1,High School,Manual,N
+1580,MRS.,Darren,Powers,Dennis Kane,12/27/1970,S,F,Dennis@gmail.com,10000,2,High School,Manual,Y
+1581,MR.,Phillina,Ober,Sam Zeldin,2/7/1970,S,M,Sam@gmail.com,10000,2,High School,Manual,Y
+1582,MR.,Mick,Powers,Lisa Ryan,1/17/1969,S,M,Lisa@gmail.com,10000,2,High School,Manual,Y
+1583,MR.,Lycoris,Ober,Becky Martin,10/23/1969,S,M,Becky@gmail.com,10000,2,High School,Manual,Y
+1584,MS.,Darren,Powers,Lisa Hazard,10/18/1970,S,F,Lisa@gmail.com,30000,0,Bachelors,Clerical,Y
+1585,MR.,Phillina,Ober,Karen Carlisle,10/5/1969,M,M,Karen@gmail.com,10000,2,High School,Manual,N
+1586,MS.,Mick,Powers,Stefania Perrino,6/4/1969,S,F,Stefania@gmail.com,20000,0,Partial College,Manual,N
+1587,MR.,Lycoris,Ober,Marc Crier,9/9/1969,S,M,Marc@gmail.com,30000,0,Bachelors,Clerical,Y
+1588,MRS.,Darren,Powers,Kean Takahito,8/4/1969,S,F,Kean@gmail.com,30000,1,Bachelors,Clerical,Y
+1589,MR.,Phillina,Ober,Maribeth Schnelling,4/19/1969,S,M,Maribeth@gmail.com,40000,0,Graduate Degree,Clerical,Y
+1590,MS.,Mick,Powers,Rick Reed,8/26/1969,M,F,Rick@gmail.com,40000,0,Graduate Degree,Clerical,Y
+1591,MS.,Lycoris,Ober,Logan Currie,11/20/1969,M,F,Logan@gmail.com,40000,0,Graduate Degree,Clerical,Y
+1592,MS.,Darren,Powers,Daniel Lacy,1/9/1969,S,F,Daniel@gmail.com,40000,0,Graduate Degree,Clerical,Y
+1593,MRS.,Phillina,Ober,Chris Cortes,1/1/1952,S,F,Chris@gmail.com,10000,3,Partial College,Manual,N
+1594,MRS.,Mick,Powers,Sandra Flanagan,2/17/1952,S,F,Sandra@gmail.com,10000,3,Partial College,Manual,N
+1595,MRS.,Lycoris,Ober,Liz Willingham,7/3/1952,M,F,Liz@gmail.com,20000,2,Partial College,Manual,Y
+1596,MR.,Darren,Powers,Brad Norvell,4/2/1952,M,M,Brad@gmail.com,20000,2,Partial College,Manual,Y
+1597,MR.,Phillina,Ober,Pete Takahito,5/14/1953,M,M,Pete@gmail.com,10000,2,High School,Manual,N
+1598,MRS.,Mick,Powers,Tom Ashbrook,3/5/1968,S,F,Tom@gmail.com,10000,2,High School,Manual,Y
+1599,MR.,Lycoris,Ober,Luke Weiss,8/25/1968,M,M,Luke@gmail.com,20000,1,Partial College,Manual,Y
+1600,MR.,Darren,Powers,Erin Ashbrook,2/12/1954,M,M,Erin@gmail.com,80000,3,Partial College,Professional,N
+1601,MRS.,Phillina,Ober,Jessica Myrick,4/9/1954,S,F,Jessica@gmail.com,80000,4,Partial College,Professional,Y
+1602,MRS.,Mick,Powers,Odella Nelson,4/15/1954,M,F,Odella@gmail.com,80000,4,Partial College,Professional,N
+1603,MR.,Lycoris,Ober,Jennifer Braxton,3/18/1954,S,M,Jennifer@gmail.com,80000,4,Partial College,Professional,Y
+1604,MR.,Darren,Powers,Astrea Jones,6/5/1944,S,M,Astrea@gmail.com,90000,5,Partial College,Professional,N
+1605,MRS.,Phillina,Ober,John Castell,3/19/1945,M,F,John@gmail.com,60000,3,Partial High School,Skilled Manual,Y
+1606,MRS.,Mick,Powers,Darrin Martin,2/26/1945,M,F,Darrin@gmail.com,70000,5,High School,Professional,Y
+1607,MR.,Lycoris,Ober,Monica Federle,2/9/1945,S,M,Monica@gmail.com,90000,5,Partial College,Professional,N
+1608,MR.,Darren,Powers,Anthony Garverick,2/18/1945,M,M,Anthony@gmail.com,150000,3,Graduate Degree,Management,Y
+1609,MR.,Phillina,Ober,Joseph Airdo,7/12/1946,M,M,Joseph@gmail.com,100000,2,Bachelors,Management,Y
+1610,MRS.,Mick,Powers,Frank Atkinson,7/19/1946,M,F,Frank@gmail.com,110000,3,Bachelors,Management,Y
+1611,MR.,Lycoris,Ober,Mike Caudle,9/1/1946,M,M,Mike@gmail.com,170000,4,Bachelors,Management,Y
+1612,MRS.,Darren,Powers,Jim Kriz,11/5/1954,M,F,Jim@gmail.com,80000,4,Partial College,Professional,N
+1613,MRS.,Phillina,Ober,Philip Fox,12/7/1953,M,F,Philip@gmail.com,80000,4,Partial College,Professional,Y
+1614,MRS.,Mick,Powers,Erica Smith,8/6/1954,M,F,Erica@gmail.com,90000,4,High School,Professional,Y
+1615,MR.,Lycoris,Ober,Michelle Arnett,10/2/1953,M,M,Michelle@gmail.com,110000,3,Bachelors,Management,Y
+1616,MRS.,Darren,Powers,Duane Noonan,12/18/1953,M,F,Duane@gmail.com,110000,2,Partial College,Professional,Y
+1617,MRS.,Phillina,Ober,Sarah Brown,8/22/1953,S,F,Sarah@gmail.com,120000,2,Bachelors,Management,Y
+1618,MR.,Mick,Powers,Henry Goldwyn,7/16/1952,M,M,Henry@gmail.com,80000,4,Partial College,Professional,Y
+1619,MRS.,Lycoris,Ober,Jack Garza,3/24/1952,M,F,Jack@gmail.com,90000,4,High School,Professional,Y
+1620,MR.,Darren,Powers,Larry Hughes,10/27/1952,M,M,Larry@gmail.com,110000,4,Partial College,Professional,Y
+1621,MRS.,Phillina,Ober,Sara Luxemburg,9/11/1951,M,F,Sara@gmail.com,80000,4,High School,Professional,Y
+1622,MR.,Mick,Powers,Vivek Grady,9/2/1951,M,M,Vivek@gmail.com,80000,5,High School,Professional,N
+1623,MR.,Lycoris,Ober,Adam Shillingsburg,5/6/1951,M,M,Adam@gmail.com,170000,5,Partial College,Professional,Y
+1624,MRS.,Darren,Powers,Thea Hudgings,3/6/1950,S,F,Thea@gmail.com,100000,3,Partial College,Management,Y
+1625,MRS.,Phillina,Ober,Julie Prescott,9/18/1950,M,F,Julie@gmail.com,160000,3,Partial College,Management,N
+1626,MR.,Mick,Powers,Thomas Thornton,12/17/1949,M,M,Thomas@gmail.com,90000,4,High School,Management,Y
+1627,MRS.,Lycoris,Ober,Julia Dunbar,10/14/1949,M,F,Julia@gmail.com,130000,4,High School,Management,Y
+1628,MRS.,Darren,Powers,Michelle Tran,5/17/1948,M,F,Michelle@gmail.com,90000,4,High School,Management,N
+1629,MR.,Phillina,Ober,Barry Franz,9/27/1947,M,M,Barry@gmail.com,80000,5,Partial High School,Skilled Manual,N
+1630,MRS.,Mick,Powers,Nicole Brennan,6/12/1947,M,F,Nicole@gmail.com,90000,5,Partial High School,Skilled Manual,N
+1631,MR.,Lycoris,Ober,Christopher Schild,11/14/1947,M,M,Christopher@gmail.com,90000,5,Partial High School,Skilled Manual,Y
+1632,MS.,Darren,Powers,Karen Ferguson,5/22/1976,S,F,Karen@gmail.com,60000,0,Bachelors,Professional,N
+1633,MS.,Phillina,Ober,Thea Hendricks,4/28/1976,M,F,Thea@gmail.com,70000,0,Bachelors,Professional,Y
+1634,MS.,Mick,Powers,George Zrebassa,7/21/1974,S,F,George@gmail.com,70000,0,Bachelors,Professional,N
+1635,MS.,Lycoris,Ober,Keith Dawkins,8/12/1974,S,F,Keith@gmail.com,70000,0,Bachelors,Professional,N
+1636,MS.,Darren,Powers,Suzanne McNair,8/16/1974,M,F,Suzanne@gmail.com,70000,0,Bachelors,Professional,Y
+1637,MR.,Phillina,Ober,Lisa DeCherney,4/28/1975,S,M,Lisa@gmail.com,80000,0,Bachelors,Professional,Y
+1638,MR.,Mick,Powers,Evan Bailliet,2/2/1975,M,M,Evan@gmail.com,80000,0,Bachelors,Professional,Y
+1639,MR.,Lycoris,Ober,Kelly Williams,11/12/1975,S,M,Kelly@gmail.com,130000,4,High School,Management,Y
+1640,MR.,Darren,Powers,Doug Bickford,11/9/1974,S,M,Doug@gmail.com,70000,0,Bachelors,Professional,N
+1641,MS.,Phillina,Ober,Dario Medina,11/5/1973,S,F,Dario@gmail.com,80000,0,Bachelors,Professional,N
+1642,MR.,Mick,Powers,Erin Smith,8/21/1973,S,M,Erin@gmail.com,80000,0,Bachelors,Professional,N
+1643,MS.,Lycoris,Ober,Beth Paige,4/22/1974,S,F,Beth@gmail.com,80000,0,Bachelors,Professional,N
+1644,MR.,Darren,Powers,Allen Rosenblatt,4/21/1974,M,M,Allen@gmail.com,100000,0,High School,Management,Y
+1645,MR.,Phillina,Ober,Denny Ordway,7/8/1974,M,M,Denny@gmail.com,120000,5,Partial High School,Professional,Y
+1646,MS.,Mick,Powers,Russell D'Ascenzo,5/21/1973,M,F,Russell@gmail.com,90000,0,Bachelors,Professional,Y
+1647,MS.,Lycoris,Ober,David Flashing,4/5/1973,M,F,David@gmail.com,100000,0,High School,Management,Y
+1648,MS.,Darren,Powers,Joy Daniels,10/13/1972,S,F,Joy@gmail.com,80000,0,Bachelors,Professional,N
+1649,MR.,Phillina,Ober,Brian Derr,10/7/1972,S,M,Brian@gmail.com,90000,0,Bachelors,Professional,N
+1650,MR.,Mick,Powers,Alice McCarthy,3/25/1972,S,M,Alice@gmail.com,90000,0,Bachelors,Professional,N
+1651,MS.,Lycoris,Ober,Tanja Norvell,1/19/1972,M,F,Tanja@gmail.com,110000,0,High School,Management,Y
+1652,MS.,Darren,Powers,Fred Chung,3/12/1972,M,F,Fred@gmail.com,110000,0,High School,Management,N
+1653,MR.,Phillina,Ober,Jill Fjeld,11/16/1971,M,M,Jill@gmail.com,90000,0,Bachelors,Professional,Y
+1654,MR.,Mick,Powers,Helen Andreada,2/19/1971,M,M,Helen@gmail.com,90000,0,Bachelors,Professional,N
+1655,MR.,Lycoris,Ober,Barry Pond,8/3/1971,M,M,Barry@gmail.com,150000,0,Partial High School,Management,Y
+1656,MR.,Darren,Powers,Zuschuss Carroll,10/7/1969,M,M,Zuschuss@gmail.com,170000,1,Graduate Degree,Management,Y
+1657,MRS.,Phillina,Ober,Sibella Parks,6/18/1975,M,F,Sibella@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1658,MR.,Mick,Powers,Jim Epp,4/16/1973,S,M,Jim@gmail.com,10000,0,Partial High School,Manual,N
+1659,MR.,Lycoris,Ober,Hunter Glantz,9/25/1973,S,M,Hunter@gmail.com,20000,0,Partial High School,Manual,N
+1660,MS.,Darren,Powers,Toby Carlisle,9/25/1973,S,F,Toby@gmail.com,30000,0,Partial College,Clerical,Y
+1661,MR.,Phillina,Ober,Anna Chung,4/3/1963,S,M,Anna@gmail.com,60000,3,Bachelors,Professional,Y
+1662,MS.,Mick,Powers,Lynn Smith,8/2/1980,S,F,Lynn@gmail.com,20000,0,Partial High School,Manual,N
+1663,MR.,Lycoris,Ober,Tracy Blumstein,2/22/1980,S,M,Tracy@gmail.com,20000,0,Partial High School,Manual,Y
+1664,MR.,Darren,Powers,Alan Schoenberger,10/9/1978,S,NA,Alan@gmail.com,30000,0,High School,Manual,N
+1665,MRS.,Phillina,Ober,Luke Schmidt,11/17/1974,M,F,Luke@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1666,MR.,Mick,Powers,Ivan Gibson,6/25/1973,S,M,Ivan@gmail.com,30000,0,High School,Manual,N
+1667,MR.,Lycoris,Ober,Jeremy Farry,2/25/1973,S,M,Jeremy@gmail.com,30000,0,High School,Manual,N
+1668,MR.,Darren,Powers,Rachel Payne,4/22/1973,M,M,Rachel@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1669,MRS.,Phillina,Ober,Eugene Hildebrand,3/11/1973,M,F,Eugene@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1670,MRS.,Mick,Powers,Fred Hopkins,5/23/1973,M,F,Fred@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1671,MS.,Lycoris,Ober,Lindsay Shagiari,7/19/1972,S,F,Lindsay@gmail.com,30000,0,High School,Manual,N
+1672,MR.,Darren,Powers,Sylvia Foulston,5/22/1972,M,M,Sylvia@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1673,MR.,Phillina,Ober,Maureen Gastineau,3/6/1972,S,M,Maureen@gmail.com,40000,2,Partial College,Clerical,Y
+1674,MR.,Mick,Powers,Daniel Byrd,8/7/1972,M,M,Daniel@gmail.com,40000,2,Partial College,Clerical,N
+1675,MS.,Lycoris,Ober,Angele Hood,5/25/1971,S,F,Angele@gmail.com,10000,0,Partial High School,Manual,Y
+1676,MS.,Darren,Powers,Ross DeVincentis,7/9/1971,S,F,Ross@gmail.com,10000,0,Partial High School,Manual,N
+1677,MR.,Phillina,Ober,Todd Sumrall,9/21/1971,S,M,Todd@gmail.com,20000,0,Partial High School,Manual,Y
+1678,MS.,Mick,Powers,Bill Tyler,3/7/1971,S,F,Bill@gmail.com,20000,0,Partial High School,Manual,N
+1679,MR.,Lycoris,Ober,Noah Childs,1/6/1971,S,M,Noah@gmail.com,20000,0,Partial High School,Manual,N
+1680,MR.,Darren,Powers,Greg Guthrie,4/6/1971,M,M,Greg@gmail.com,20000,0,Partial High School,Manual,N
+1681,MR.,Phillina,Ober,Anne McFarland,11/19/1971,S,M,Anne@gmail.com,30000,0,High School,Manual,N
+1682,MRS.,Mick,Powers,Amy Cox,12/2/1970,S,F,Amy@gmail.com,40000,2,Partial College,Clerical,Y
+1683,MR.,Lycoris,Ober,Nancy Lomonaco,9/4/1971,S,M,Nancy@gmail.com,40000,2,Partial College,Clerical,Y
+1684,MR.,Darren,Powers,Ken Heidel,10/17/1970,S,M,Ken@gmail.com,40000,2,Partial College,Clerical,Y
+1685,MRS.,Phillina,Ober,Paul Lucas,11/26/1970,S,F,Paul@gmail.com,40000,2,Partial College,Clerical,Y
+1686,MR.,Mick,Powers,Deirdre Greer,11/14/1974,S,M,Deirdre@gmail.com,40000,3,Partial College,Clerical,Y
+1687,MS.,Lycoris,Ober,Patrick O'Brill,9/18/1974,S,F,Patrick@gmail.com,40000,0,Graduate Degree,Skilled Manual,Y
+1688,MRS.,Darren,Powers,Julie Kriz,7/7/1975,S,F,Julie@gmail.com,40000,3,Partial College,Clerical,Y
+1689,MR.,Phillina,Ober,Shahid Hopkins,3/7/1975,S,M,Shahid@gmail.com,40000,4,Partial College,Clerical,Y
+1690,MR.,Mick,Powers,Steven Ward,10/13/1930,M,M,Steven@gmail.com,50000,1,Graduate Degree,Skilled Manual,Y
+1691,MRS.,Lycoris,Ober,Denise Monton,4/20/1931,M,F,Denise@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1692,MS.,Darren,Powers,Tracy Collins,7/7/1966,S,F,Tracy@gmail.com,60000,0,Graduate Degree,Skilled Manual,Y
+1693,MR.,Phillina,Ober,MaryBeth Skach,5/17/1966,S,M,MaryBeth@gmail.com,60000,0,Graduate Degree,Skilled Manual,N
+1694,MS.,Mick,Powers,William Brown,11/20/1966,S,F,William@gmail.com,60000,0,Graduate Degree,Skilled Manual,Y
+1695,MS.,Lycoris,Ober,Tiffany House,7/7/1966,S,F,Tiffany@gmail.com,60000,0,Graduate Degree,Skilled Manual,Y
+1696,MRS.,Darren,Powers,Maribeth Dona,7/26/1953,M,F,Maribeth@gmail.com,30000,1,Bachelors,Skilled Manual,Y
+1697,MR.,Phillina,Ober,Barry Gonzalez,7/13/1953,M,M,Barry@gmail.com,30000,1,Bachelors,Skilled Manual,Y
+1698,MR.,Mick,Powers,Tamara Chand,6/14/1953,M,M,Tamara@gmail.com,30000,1,Bachelors,Skilled Manual,Y
+1699,MRS.,Lycoris,Ober,Benjamin Farhat,8/13/1954,S,F,Benjamin@gmail.com,20000,3,Partial High School,Manual,Y
+1700,MRS.,Darren,Powers,Pete Kriz,9/27/1954,S,F,Pete@gmail.com,20000,3,Partial High School,Manual,N
+1701,MR.,Phillina,Ober,Tracy Zic,4/20/1954,M,M,Tracy@gmail.com,30000,1,High School,Clerical,Y
+1702,MRS.,Mick,Powers,Karen Daniels,2/25/1954,M,F,Karen@gmail.com,30000,1,High School,Clerical,Y
+1703,MRS.,Lycoris,Ober,Roy Französisch,10/21/1954,M,F,Roy@gmail.com,30000,1,High School,Clerical,Y
+1704,MRS.,Darren,Powers,Darren Budd,6/20/1954,M,F,Darren@gmail.com,40000,1,Partial College,Clerical,Y
+1705,MR.,Phillina,Ober,Maris LaWare,5/10/1955,M,M,Maris@gmail.com,40000,1,Partial College,Clerical,Y
+1706,MRS.,Mick,Powers,Jeremy Lonsdale,4/11/1955,M,F,Jeremy@gmail.com,40000,1,Partial College,Clerical,Y
+1707,MRS.,Lycoris,Ober,Candace McMahon,12/9/1955,M,F,Candace@gmail.com,40000,1,Partial College,Clerical,Y
+1708,MR.,Darren,Powers,Robert Marley,12/23/1955,M,M,Robert@gmail.com,80000,5,Graduate Degree,Skilled Manual,Y
+1709,MR.,Phillina,Ober,Jamie Frazer,8/10/1956,M,M,Jamie@gmail.com,40000,1,Partial College,Clerical,Y
+1710,MRS.,Mick,Powers,Peter Bühler,1/23/1956,M,F,Peter@gmail.com,40000,1,Partial College,Clerical,Y
+1711,MRS.,Lycoris,Ober,Rick Huthwaite,1/9/1956,M,F,Rick@gmail.com,40000,1,Partial College,Clerical,Y
+1712,MR.,Darren,Powers,Adam Hart,8/6/1956,M,NA,Adam@gmail.com,40000,1,Partial College,Clerical,Y
+1713,MRS.,Phillina,Ober,Alan Barnes,6/4/1956,M,F,Alan@gmail.com,40000,1,Partial College,Clerical,Y
+1714,MRS.,Mick,Powers,Justin Deggeller,8/19/1957,M,F,Justin@gmail.com,40000,1,Partial College,Clerical,Y
+1715,MR.,Lycoris,Ober,Yoseph Carroll,11/16/1957,M,M,Yoseph@gmail.com,40000,1,Partial College,Clerical,Y
+1716,MR.,Darren,Powers,Randy Bradley,7/26/1957,M,M,Randy@gmail.com,40000,1,Partial College,Clerical,Y
+1717,MRS.,Phillina,Ober,Pierre Wener,1/7/1957,M,F,Pierre@gmail.com,40000,1,Partial College,Clerical,Y
+1718,MRS.,Mick,Powers,Ann Blume,2/26/1957,M,F,Ann@gmail.com,40000,1,Partial College,Clerical,Y
+1719,MRS.,Lycoris,Ober,Joe Kamberova,7/21/1957,M,F,Joe@gmail.com,40000,1,Partial College,Clerical,Y
+1720,MR.,Darren,Powers,Julie Creighton,11/13/1958,S,M,Julie@gmail.com,60000,4,Graduate Degree,Skilled Manual,Y
+1721,MR.,Phillina,Ober,Michael Kennedy,7/3/1958,M,M,Michael@gmail.com,60000,4,Graduate Degree,Skilled Manual,Y
+1722,MR.,Mick,Powers,John Murray,4/17/1958,M,M,John@gmail.com,60000,4,Graduate Degree,Skilled Manual,Y
+1723,MR.,Lycoris,Ober,Georgia Rosenberg,3/24/1958,M,M,Georgia@gmail.com,60000,4,Graduate Degree,Skilled Manual,Y
+1724,MRS.,Darren,Powers,Dennis Bolton,8/28/1959,S,F,Dennis@gmail.com,60000,4,Graduate Degree,Skilled Manual,N
+1725,MR.,Phillina,Ober,Alan Dominguez,8/22/1959,M,M,Alan@gmail.com,60000,4,Graduate Degree,Skilled Manual,Y
+1726,MR.,Mick,Powers,Dave Hallsten,1/28/1959,S,M,Dave@gmail.com,60000,4,Graduate Degree,Skilled Manual,Y
+1727,MR.,Lycoris,Ober,Jason Klamczynski,4/12/1959,S,M,Jason@gmail.com,60000,4,Graduate Degree,Skilled Manual,N
+1728,MR.,Darren,Powers,Steve Carroll,9/10/1968,S,M,Steve@gmail.com,20000,1,Partial College,Manual,N
+1729,MRS.,Phillina,Ober,Tony Chapman,2/17/1968,M,F,Tony@gmail.com,20000,1,Partial College,Manual,Y
+1730,MR.,Mick,Powers,Susan Pistek,5/7/1968,M,M,Susan@gmail.com,30000,1,Bachelors,Clerical,Y
+1731,MR.,Lycoris,Ober,Saphhira Shifley,3/25/1968,M,M,Saphhira@gmail.com,30000,1,Bachelors,Clerical,Y
+1732,MRS.,Darren,Powers,Phillip Breyer,3/14/1968,M,F,Phillip@gmail.com,30000,1,Bachelors,Clerical,Y
+1733,MS.,Phillina,Ober,Sally Matthias,3/8/1968,M,F,Sally@gmail.com,40000,0,Graduate Degree,Clerical,Y
+1734,MS.,Mick,Powers,Nathan Gelder,9/6/1968,M,F,Nathan@gmail.com,40000,0,Bachelors,Clerical,Y
+1735,MS.,Lycoris,Ober,Harold Ryan,8/8/1968,S,F,Harold@gmail.com,40000,0,Bachelors,Clerical,Y
+1736,MR.,Darren,Powers,Darren Koutras,5/25/1967,S,M,Darren@gmail.com,10000,3,High School,Manual,Y
+1737,MR.,Phillina,Ober,Nat Gilpin,5/27/1967,S,M,Nat@gmail.com,20000,1,Partial College,Manual,N
+1738,MRS.,Mick,Powers,Alyssa Tate,9/9/1967,M,F,Alyssa@gmail.com,20000,1,Partial College,Manual,Y
+1739,MRS.,Lycoris,Ober,Andy Reiter,9/28/1926,S,F,Andy@gmail.com,10000,4,High School,Manual,Y
+1740,MRS.,Darren,Powers,Bart Folk,7/8/1926,M,F,Bart@gmail.com,40000,1,Bachelors,Clerical,Y
+1741,MR.,Phillina,Ober,Mary O'Rourke,5/14/1967,M,M,Mary@gmail.com,20000,1,Partial College,Manual,Y
+1742,MRS.,Mick,Powers,Brian Thompson,1/15/1967,S,F,Brian@gmail.com,30000,1,Bachelors,Clerical,N
+1743,MR.,Lycoris,Ober,Matthew Clasen,8/22/1967,S,M,Matthew@gmail.com,30000,1,Bachelors,Clerical,N
+1744,MR.,Darren,Powers,Bill Stewart,12/16/1967,S,M,Bill@gmail.com,30000,1,Bachelors,Clerical,N
+1745,MRS.,Phillina,Ober,Alan Hwang,8/13/1967,S,F,Alan@gmail.com,30000,1,Bachelors,Clerical,N
+1746,MRS.,Mick,Powers,Toby Ritter,7/24/1966,S,F,Toby@gmail.com,10000,5,Partial High School,Manual,Y
+1747,MR.,Lycoris,Ober,David Philippe,4/19/1966,M,M,David@gmail.com,20000,1,High School,Manual,Y
+1748,MR.,Darren,Powers,Michael Dominguez,2/1/1966,S,M,Michael@gmail.com,20000,1,High School,Manual,N
+1749,MR.,Phillina,Ober,Katherine Nockton,7/12/1966,S,M,Katherine@gmail.com,20000,1,High School,Manual,N
+1750,MR.,Mick,Powers,Matt Collins,7/2/1966,S,M,Matt@gmail.com,20000,2,High School,Manual,Y
+1751,MS.,Lycoris,Ober,Elizabeth Moffitt,9/2/1967,M,F,Elizabeth@gmail.com,40000,0,Bachelors,Clerical,Y
+1752,MS.,Darren,Powers,Cathy Prescott,9/23/1967,M,F,Cathy@gmail.com,40000,0,Bachelors,Clerical,Y
+1753,MRS.,Phillina,Ober,David Kendrick,10/23/1966,S,F,David@gmail.com,20000,2,High School,Manual,Y
+1754,MR.,Mick,Powers,Roy Collins,5/10/1966,M,M,Roy@gmail.com,30000,1,Bachelors,Clerical,Y
+1755,MRS.,Lycoris,Ober,Nona Balk,1/22/1966,M,F,Nona@gmail.com,30000,1,Bachelors,Skilled Manual,Y
+1756,MR.,Darren,Powers,Rob Lucas,5/18/1966,M,M,Rob@gmail.com,30000,1,Bachelors,Skilled Manual,Y
+1757,MR.,Phillina,Ober,Joni Blumstein,3/15/1966,M,M,Joni@gmail.com,30000,1,Bachelors,Skilled Manual,Y
+1758,MRS.,Mick,Powers,Frank Preis,11/15/1965,S,F,Frank@gmail.com,20000,2,High School,Manual,Y
+1759,MRS.,Lycoris,Ober,Thomas Boland,7/17/1965,S,F,Thomas@gmail.com,20000,2,High School,Manual,Y
+1760,MR.,Darren,Powers,Tim Brockman,4/21/1965,S,M,Tim@gmail.com,20000,2,High School,Manual,Y
+1761,MR.,Phillina,Ober,Denny Joy,2/10/1965,M,M,Denny@gmail.com,30000,1,Bachelors,Skilled Manual,Y
+1762,MRS.,Mick,Powers,Sally Hughsby,10/22/1965,M,F,Sally@gmail.com,30000,1,Bachelors,Skilled Manual,Y
+1763,MRS.,Lycoris,Ober,Craig Yedwab,11/8/1964,S,F,Craig@gmail.com,10000,3,Partial High School,Manual,Y
+1764,MR.,Darren,Powers,Logan Haushalter,8/20/1964,S,M,Logan@gmail.com,20000,3,High School,Manual,Y
+1765,MR.,Phillina,Ober,Ralph Arnett,9/12/1933,M,M,Ralph@gmail.com,30000,1,Bachelors,Skilled Manual,Y
+1766,MS.,Mick,Powers,Kimberly Carter,9/4/1966,M,F,Kimberly@gmail.com,40000,0,Bachelors,Professional,Y
+1767,MRS.,Lycoris,Ober,Sung Shariari,4/13/1963,S,F,Sung@gmail.com,30000,2,Partial College,Clerical,Y
+1768,MRS.,Darren,Powers,Cari Sayre,9/26/1965,S,F,Cari@gmail.com,30000,2,Partial College,Clerical,Y
+1769,MR.,Phillina,Ober,Sung Pak,11/22/1965,M,M,Sung@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1770,MRS.,Mick,Powers,Chad Cunningham,3/8/1965,M,F,Chad@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1771,MR.,Lycoris,Ober,Steve Chapman,12/15/1965,M,M,Steve@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1772,MR.,Darren,Powers,Stefanie Holloman,10/21/1964,S,M,Stefanie@gmail.com,30000,2,Partial College,Clerical,Y
+1773,MRS.,Phillina,Ober,Sean Christensen,7/14/1964,M,F,Sean@gmail.com,30000,2,Partial College,Clerical,N
+1774,MRS.,Mick,Powers,Erin Creighton,5/4/1964,M,F,Erin@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1775,MRS.,Lycoris,Ober,Mike Kennedy,10/18/1963,S,F,Mike@gmail.com,30000,2,Partial College,Clerical,Y
+1776,MRS.,Darren,Powers,Irene Maddox,5/16/1963,S,F,Irene@gmail.com,30000,3,Partial College,Clerical,Y
+1777,MR.,Phillina,Ober,Penelope Sewall,9/4/1978,S,M,Penelope@gmail.com,20000,0,High School,Manual,N
+1778,MR.,Mick,Powers,Tony Sayre,3/25/1977,S,M,Tony@gmail.com,20000,0,High School,Manual,Y
+1779,MR.,Lycoris,Ober,Adrian Barton,11/4/1979,S,M,Adrian@gmail.com,20000,4,High School,Manual,Y
+1780,MR.,Darren,Powers,Khloe Miller,7/2/1979,S,M,Khloe@gmail.com,20000,5,High School,Manual,Y
+1781,MR.,Phillina,Ober,Tamara Willingham,9/3/1963,M,M,Tamara@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1782,MRS.,Mick,Powers,Sarah Foster,2/6/1978,S,F,Sarah@gmail.com,30000,3,Partial College,Clerical,Y
+1783,MRS.,Lycoris,Ober,Craig Carreira,7/2/1978,S,F,Craig@gmail.com,30000,3,Partial College,Clerical,Y
+1784,MS.,Darren,Powers,Clytie Kelty,9/16/1977,S,F,Clytie@gmail.com,20000,0,High School,Manual,N
+1785,MS.,Phillina,Ober,Maureen Gnade,4/7/1977,S,F,Maureen@gmail.com,30000,0,Partial College,Clerical,N
+1786,MR.,Mick,Powers,Thomas Brumley,8/21/1977,S,M,Thomas@gmail.com,30000,0,Partial College,Clerical,Y
+1787,MR.,Lycoris,Ober,Debra Catini,4/13/1977,S,M,Debra@gmail.com,30000,0,Partial College,Clerical,N
+1788,MR.,Darren,Powers,Michael Granlund,2/6/1977,S,M,Michael@gmail.com,30000,0,Partial College,Clerical,N
+1789,MR.,Phillina,Ober,Ricardo Emerson,6/3/1977,S,M,Ricardo@gmail.com,30000,0,Partial College,Clerical,Y
+1790,MS.,Mick,Powers,Ken Brennan,11/20/1976,S,F,Ken@gmail.com,20000,0,High School,Manual,N
+1791,MS.,Lycoris,Ober,Maureen Fritzler,2/3/1975,S,F,Maureen@gmail.com,10000,0,Partial High School,Manual,N
+1792,MR.,Darren,Powers,Alex Russell,5/9/1975,S,M,Alex@gmail.com,20000,0,High School,Manual,Y
+1793,MR.,Phillina,Ober,Pamela Coakley,3/4/1976,S,M,Pamela@gmail.com,20000,0,High School,Manual,N
+1794,MR.,Mick,Powers,James Lanier,6/26/1976,S,M,James@gmail.com,30000,0,Partial College,Clerical,N
+1795,MR.,Lycoris,Ober,Claudia Bergmann,4/23/1975,S,M,Claudia@gmail.com,30000,0,Partial College,Clerical,N
+1796,MR.,Darren,Powers,Amy Hunt,2/27/1974,M,M,Amy@gmail.com,20000,0,Partial High School,Manual,N
+1797,MR.,Phillina,Ober,Andrew Gjertsen,10/11/1974,S,M,Andrew@gmail.com,20000,0,Partial High School,Manual,N
+1798,MS.,Mick,Powers,Yana Sorensen,11/3/1975,S,F,Yana@gmail.com,30000,0,Partial College,Clerical,N
+1799,MS.,Lycoris,Ober,Cindy Schnelling,8/17/1975,S,F,Cindy@gmail.com,30000,0,Partial College,Clerical,N
+1800,MR.,Darren,Powers,Karen Seio,11/21/1975,M,M,Karen@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1801,MRS.,Phillina,Ober,Cyra Reiten,3/9/1975,M,F,Cyra@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1802,MR.,Mick,Powers,Rick Wilson,4/4/1959,S,M,Rick@gmail.com,60000,4,Graduate Degree,Skilled Manual,N
+1803,MR.,Lycoris,Ober,Trudy Schmidt,4/24/1959,M,M,Trudy@gmail.com,60000,4,Graduate Degree,Skilled Manual,Y
+1804,MS.,Darren,Powers,Lori Olson,5/1/1973,S,F,Lori@gmail.com,50000,0,Graduate Degree,Skilled Manual,Y
+1805,MS.,Phillina,Ober,Sarah Jordon,4/20/1973,S,F,Sarah@gmail.com,50000,0,Graduate Degree,Skilled Manual,Y
+1806,MS.,Mick,Powers,Guy Thornton,2/19/1973,S,F,Guy@gmail.com,50000,0,Graduate Degree,Skilled Manual,N
+1807,MR.,Lycoris,Ober,Lindsay Castell,12/17/1973,M,M,Lindsay@gmail.com,50000,0,Graduate Degree,Skilled Manual,Y
+1808,MR.,Darren,Powers,Nora Paige,6/27/1973,S,NA,Nora@gmail.com,50000,1,Graduate Degree,Skilled Manual,Y
+1809,MR.,Phillina,Ober,Tracy Poddar,3/23/1973,S,M,Tracy@gmail.com,50000,1,Graduate Degree,Skilled Manual,Y
+1810,MR.,Mick,Powers,Dave Kipp,1/19/1973,M,M,Dave@gmail.com,50000,1,Graduate Degree,Skilled Manual,Y
+1811,MRS.,Lycoris,Ober,Alan Haines,6/14/1973,M,F,Alan@gmail.com,50000,1,Graduate Degree,Skilled Manual,Y
+1812,MR.,Darren,Powers,Jennifer Jackson,2/27/1973,M,M,Jennifer@gmail.com,60000,1,Graduate Degree,Skilled Manual,Y
+1813,MRS.,Phillina,Ober,Dana Kaydos,5/17/1972,S,F,Dana@gmail.com,40000,1,Graduate Degree,Skilled Manual,Y
+1814,MR.,Mick,Powers,Toby Gnade,2/8/1971,S,M,Toby@gmail.com,40000,4,High School,Skilled Manual,Y
+1815,MRS.,Lycoris,Ober,Edward Becker,12/25/1971,M,F,Edward@gmail.com,60000,1,Graduate Degree,Skilled Manual,Y
+1816,MR.,Darren,Powers,Martinez,2/13/1971,M,M,Martinez@gmail.com,60000,1,Graduate Degree,Skilled Manual,Y
+1817,MR.,Phillina,Ober,Jeremy Ellison,5/26/1972,M,M,Jeremy@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1818,MR.,Mick,Powers,Jesus Ocampo,6/12/1972,M,M,Jesus@gmail.com,60000,1,Graduate Degree,Skilled Manual,Y
+1819,MR.,Lycoris,Ober,Corinna Mitchell,8/14/1972,M,M,Corinna@gmail.com,60000,1,Graduate Degree,Skilled Manual,Y
+1820,MRS.,Darren,Powers,Bart Watters,12/22/1972,S,F,Bart@gmail.com,60000,1,Graduate Degree,Professional,Y
+1821,MRS.,Phillina,Ober,Julia West,8/14/1972,M,F,Julia@gmail.com,70000,1,Graduate Degree,Professional,Y
+1822,MR.,Mick,Powers,Dean Braden,3/12/1972,M,M,Dean@gmail.com,70000,1,Graduate Degree,Professional,Y
+1823,MRS.,Lycoris,Ober,Fred Wasserman,12/23/1972,M,F,Fred@gmail.com,70000,1,Graduate Degree,Professional,Y
+1824,MRS.,Darren,Powers,Ben Peterman,5/3/1970,M,F,Ben@gmail.com,50000,1,Bachelors,Skilled Manual,Y
+1825,MR.,Phillina,Ober,Benjamin Venier,8/12/1970,M,M,Benjamin@gmail.com,50000,1,Bachelors,Skilled Manual,Y
+1826,MRS.,Mick,Powers,Chad McGuire,12/26/1970,M,F,Chad@gmail.com,50000,1,Bachelors,Skilled Manual,Y
+1827,MR.,Lycoris,Ober,Michael Oakman,7/27/1970,M,NA,Michael@gmail.com,50000,1,Bachelors,Skilled Manual,Y
+1828,MR.,Darren,Powers,John Dryer,10/7/1969,S,M,John@gmail.com,40000,2,Bachelors,Skilled Manual,Y
+1829,MRS.,Phillina,Ober,Robert Dilbeck,10/19/1969,S,F,Robert@gmail.com,40000,2,Bachelors,Skilled Manual,Y
+1830,MRS.,Mick,Powers,Anthony Witt,3/19/1969,S,F,Anthony@gmail.com,40000,2,Bachelors,Skilled Manual,Y
+1831,MR.,Lycoris,Ober,Heather Jas,9/22/1969,S,M,Heather@gmail.com,40000,2,Bachelors,Skilled Manual,N
+1832,MR.,Darren,Powers,Eugene Barchas,4/16/1969,S,M,Eugene@gmail.com,60000,1,Graduate Degree,Professional,Y
+1833,MR.,Phillina,Ober,Theone Pippenger,1/26/1969,M,M,Theone@gmail.com,60000,1,Graduate Degree,Professional,Y
+1834,MR.,Mick,Powers,Michael Paige,7/26/1969,M,M,Michael@gmail.com,60000,1,Graduate Degree,Professional,Y
+1835,MRS.,Lycoris,Ober,Olvera Toch,12/17/1971,M,F,Olvera@gmail.com,60000,1,Graduate Degree,Professional,Y
+1836,MR.,Darren,Powers,Juliana Krohn,5/5/1971,M,M,Juliana@gmail.com,60000,1,Graduate Degree,Professional,Y
+1837,MRS.,Phillina,Ober,Linda Southworth,6/8/1971,S,F,Linda@gmail.com,60000,1,Graduate Degree,Professional,Y
+1838,MRS.,Mick,Powers,Jane Waco,9/19/1971,M,F,Jane@gmail.com,60000,1,Graduate Degree,Professional,Y
+1839,MRS.,Lycoris,Ober,David Bremer,4/1/1971,S,F,David@gmail.com,70000,2,Graduate Degree,Professional,Y
+1840,MRS.,Darren,Powers,Julia Barnett,9/20/1971,M,F,Julia@gmail.com,70000,3,Graduate Degree,Professional,Y
+1841,MRS.,Phillina,Ober,Lena Cacioppo,5/4/1971,M,F,Lena@gmail.com,70000,3,Graduate Degree,Professional,Y
+1842,MR.,Mick,Powers,Stuart Van,2/7/1969,M,M,Stuart@gmail.com,60000,1,Graduate Degree,Professional,Y
+1843,MR.,Lycoris,Ober,Anna Gayman,4/22/1969,S,M,Anna@gmail.com,60000,1,Graduate Degree,Professional,Y
+1844,MRS.,Darren,Powers,Rose O'Brian,1/22/1969,M,F,Rose@gmail.com,60000,1,Graduate Degree,Professional,Y
+1845,MR.,Phillina,Ober,Justin Hirsh,1/7/1970,S,M,Justin@gmail.com,60000,1,Graduate Degree,Professional,Y
+1846,MR.,Mick,Powers,Neil Knudson,7/4/1970,S,M,Neil@gmail.com,60000,2,Graduate Degree,Professional,Y
+1847,MR.,Lycoris,Ober,Edward Nazzal,2/25/1970,M,M,Edward@gmail.com,70000,4,Graduate Degree,Professional,Y
+1848,MRS.,Darren,Powers,Brendan Dodson,2/9/1970,S,F,Brendan@gmail.com,70000,4,Graduate Degree,Professional,Y
+1849,MRS.,Phillina,Ober,Bill Donatelli,12/13/1970,M,F,Bill@gmail.com,70000,4,Graduate Degree,Professional,Y
+1850,MR.,Mick,Powers,Muhammed Lee,12/17/1970,M,M,Muhammed@gmail.com,80000,2,Graduate Degree,Professional,Y
+1851,MR.,Lycoris,Ober,Catherine Glotzbach,6/21/1967,M,M,Catherine@gmail.com,70000,2,Bachelors,Skilled Manual,Y
+1852,MRS.,Darren,Powers,Becky Pak,9/7/1967,S,F,Becky@gmail.com,70000,2,Bachelors,Skilled Manual,Y
+1853,MRS.,Phillina,Ober,Brenda Bowman,10/21/1967,S,F,Brenda@gmail.com,70000,2,Bachelors,Skilled Manual,Y
+1854,MRS.,Mick,Powers,Eleni McCrary,10/17/1967,S,F,Eleni@gmail.com,70000,2,Bachelors,Skilled Manual,Y
+1855,MRS.,Lycoris,Ober,Max Jones,5/18/1966,S,F,Max@gmail.com,60000,3,Bachelors,Skilled Manual,N
+1856,MR.,Darren,Powers,Giulietta Baptist,9/21/1966,M,M,Giulietta@gmail.com,60000,3,Bachelors,Skilled Manual,Y
+1857,MRS.,Phillina,Ober,Jonathan Howell,2/7/1966,S,F,Jonathan@gmail.com,60000,3,Bachelors,Skilled Manual,Y
+1858,MS.,Mick,Powers,Frank Carlisle,8/18/1966,M,F,Frank@gmail.com,60000,0,Graduate Degree,Professional,Y
+1859,MR.,Lycoris,Ober,Skye Norling,2/2/1966,S,M,Skye@gmail.com,70000,4,Graduate Degree,Professional,Y
+1860,MR.,Darren,Powers,Stewart Carmichael,2/13/1966,M,M,Stewart@gmail.com,80000,0,Graduate Degree,Professional,Y
+1861,MR.,Phillina,Ober,Shaun Weien,10/14/1969,S,M,Shaun@gmail.com,60000,2,Graduate Degree,Professional,Y
+1862,MR.,Mick,Powers,Cathy Hwang,1/28/1969,M,M,Cathy@gmail.com,70000,5,Graduate Degree,Professional,Y
+1863,MR.,Lycoris,Ober,Rob Haberlin,5/8/1969,M,M,Rob@gmail.com,70000,5,Graduate Degree,Professional,Y
+1864,MRS.,Darren,Powers,Bruce Degenhardt,9/4/1969,M,F,Bruce@gmail.com,70000,5,Graduate Degree,Professional,Y
+1865,MRS.,Phillina,Ober,Victor Preis,8/7/1969,M,F,Victor@gmail.com,70000,5,Graduate Degree,Professional,Y
+1866,MRS.,Mick,Powers,Kalyca Meade,3/16/1969,M,F,Kalyca@gmail.com,70000,5,Graduate Degree,Professional,N
+1867,MR.,Lycoris,Ober,Fred McMath,1/5/1969,M,M,Fred@gmail.com,80000,2,Graduate Degree,Professional,Y
+1868,MR.,Darren,Powers,Victoria Brennan,10/1/1965,S,M,Victoria@gmail.com,40000,0,Bachelors,Professional,N
+1869,MR.,Phillina,Ober,Thais Sissman,2/7/1965,M,M,Thais@gmail.com,40000,0,Bachelors,Professional,N
+1870,MR.,Mick,Powers,Ralph Kennedy,7/13/1965,S,M,Ralph@gmail.com,40000,0,Bachelors,Professional,N
+1871,MRS.,Lycoris,Ober,Brad Eason,12/25/1965,S,F,Brad@gmail.com,80000,3,Bachelors,Skilled Manual,Y
+1872,MR.,Darren,Powers,Parhena Norris,9/6/1965,M,M,Parhena@gmail.com,80000,3,Bachelors,Skilled Manual,Y
+1873,MS.,Phillina,Ober,Eudokia Martin,1/13/1965,M,F,Eudokia@gmail.com,60000,0,Graduate Degree,Professional,Y
+1874,MS.,Mick,Powers,Denny Blanton,1/3/1964,S,F,Denny@gmail.com,40000,0,Bachelors,Professional,N
+1875,MR.,Lycoris,Ober,Philisse Overcash,6/19/1964,M,M,Philisse@gmail.com,40000,0,Bachelors,Professional,N
+1876,MRS.,Darren,Powers,Tim Taslimi,9/24/1964,S,F,Tim@gmail.com,50000,4,Bachelors,Skilled Manual,N
+1877,MR.,Phillina,Ober,Joni Wasserman,3/24/1964,M,M,Joni@gmail.com,50000,4,Bachelors,Skilled Manual,Y
+1878,MR.,Mick,Powers,Shaun Chance,1/11/1964,M,M,Shaun@gmail.com,50000,5,Bachelors,Skilled Manual,Y
+1879,MRS.,Lycoris,Ober,Dave Poirier,4/5/1964,S,F,Dave@gmail.com,50000,5,Bachelors,Skilled Manual,Y
+1880,MR.,Darren,Powers,Roger Barcio,6/24/1964,M,M,Roger@gmail.com,50000,4,Bachelors,Skilled Manual,Y
+1881,MR.,Phillina,Ober,Fred Harton,11/25/1964,M,M,Fred@gmail.com,50000,4,Bachelors,Skilled Manual,Y
+1882,MR.,Mick,Powers,Katrina Willman,3/16/1963,S,M,Katrina@gmail.com,60000,4,Bachelors,Skilled Manual,N
+1883,MR.,Lycoris,Ober,Cathy Armstrong,11/25/1963,S,M,Cathy@gmail.com,60000,4,Bachelors,Professional,N
+1884,MR.,Darren,Powers,Chuck Clark,8/24/1963,M,M,Chuck@gmail.com,60000,4,Bachelors,Professional,Y
+1885,MRS.,Phillina,Ober,Neoma Murray,10/17/1963,S,F,Neoma@gmail.com,60000,4,Bachelors,Professional,Y
+1886,MS.,Mick,Powers,Bobby Odegard,6/24/1968,S,F,Bobby@gmail.com,60000,0,Bachelors,Professional,N
+1887,MRS.,Lycoris,Ober,Ken Dana,5/21/1968,S,F,Ken@gmail.com,60000,2,Graduate Degree,Professional,Y
+1888,MR.,Darren,Powers,Brendan Murry,2/14/1963,M,M,Brendan@gmail.com,60000,4,Bachelors,Professional,Y
+1889,MRS.,Phillina,Ober,Ann Chong,12/22/1963,S,F,Ann@gmail.com,60000,4,Bachelors,Professional,Y
+1890,MRS.,Mick,Powers,Meg O'Connel,9/19/1963,S,F,Meg@gmail.com,60000,4,Bachelors,Professional,Y
+1891,MRS.,Lycoris,Ober,Justin Ritter,2/19/1963,S,F,Justin@gmail.com,60000,3,Graduate Degree,Professional,N
+1892,MRS.,Darren,Powers,Adam Bellavance,3/20/1962,M,F,Adam@gmail.com,40000,3,High School,Skilled Manual,Y
+1893,MR.,Phillina,Ober,Charlotte Melton,12/8/1962,S,M,Charlotte@gmail.com,70000,1,Bachelors,Professional,N
+1894,MRS.,Mick,Powers,Sanjit Jacobs,11/3/1962,M,F,Sanjit@gmail.com,70000,1,Partial College,Skilled Manual,Y
+1895,MR.,Lycoris,Ober,Carlos Meador,3/20/1962,M,M,Carlos@gmail.com,70000,1,Partial College,Skilled Manual,Y
+1896,MRS.,Darren,Powers,Dan Reichenbach,10/18/1962,M,F,Dan@gmail.com,70000,1,Partial College,Skilled Manual,Y
+1897,MRS.,Phillina,Ober,Bryan Spruell,9/21/1962,M,F,Bryan@gmail.com,70000,1,Partial College,Skilled Manual,Y
+1898,MR.,Mick,Powers,Helen Wasserman,10/21/1961,S,M,Helen@gmail.com,40000,4,High School,Skilled Manual,Y
+1899,MR.,Lycoris,Ober,Eric Murdock,9/2/1961,M,M,Eric@gmail.com,60000,1,Partial College,Skilled Manual,N
+1900,MRS.,Darren,Powers,Henry MacAllister,11/14/1961,M,F,Henry@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1901,MR.,Phillina,Ober,Joel Jenkins,5/8/1960,M,M,Joel@gmail.com,40000,4,High School,Skilled Manual,Y
+1902,MRS.,Mick,Powers,Gene Hale,3/26/1960,M,F,Gene@gmail.com,40000,4,High School,Skilled Manual,Y
+1903,MRS.,Lycoris,Ober,Sean O'Donnell,1/22/1960,M,F,Sean@gmail.com,40000,4,High School,Skilled Manual,Y
+1904,MR.,Darren,Powers,Claire Gute,7/2/1960,M,M,Claire@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1905,MR.,Phillina,Ober,Jay Fein,8/21/1967,S,M,Jay@gmail.com,70000,0,Partial College,Skilled Manual,N
+1906,MR.,Mick,Powers,Maribeth Yedwab,4/15/1967,S,M,Maribeth@gmail.com,70000,0,Partial College,Skilled Manual,N
+1907,MR.,Lycoris,Ober,Sandra Glassco,9/17/1967,S,M,Sandra@gmail.com,70000,0,Partial College,Skilled Manual,N
+1908,MR.,Darren,Powers,Kelly Collister,7/17/1967,S,M,Kelly@gmail.com,70000,0,Partial College,Skilled Manual,N
+1909,MR.,Phillina,Ober,Emily Grady,7/9/1967,S,M,Emily@gmail.com,60000,0,Graduate Degree,Professional,N
+1910,MR.,Mick,Powers,Christy Brittain,1/7/1960,M,M,Christy@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1911,MR.,Lycoris,Ober,Meg Tillman,5/6/1960,M,M,Meg@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1912,MRS.,Darren,Powers,Doug O'Connell,10/2/1960,M,F,Doug@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1913,MRS.,Phillina,Ober,Maria Zettner,8/19/1960,M,F,Maria@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1914,MR.,Mick,Powers,Greg Hansen,2/8/1959,M,M,Greg@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1915,MRS.,Lycoris,Ober,Patrick Bzostek,7/27/1959,M,F,Patrick@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1916,MR.,Darren,Powers,Katrina Bavinger,8/25/1959,M,M,Katrina@gmail.com,60000,1,Partial College,Skilled Manual,N
+1917,MRS.,Phillina,Ober,Tom Prescott,1/22/1959,M,F,Tom@gmail.com,60000,1,Partial College,Skilled Manual,Y
+1918,MR.,Mick,Powers,Ritsa Hightower,9/25/1959,M,M,Ritsa@gmail.com,60000,1,Partial College,Skilled Manual,N
+1919,MRS.,Lycoris,Ober,Matt Hagelstein,2/8/1959,M,F,Matt@gmail.com,60000,4,Bachelors,Professional,Y
+1920,MR.,Darren,Powers,Stephanie Ulpright,10/9/1959,M,M,Stephanie@gmail.com,60000,4,Bachelors,Professional,Y
+1921,MR.,Phillina,Ober,Art Ferguson,5/14/1959,M,M,Art@gmail.com,70000,2,Graduate Degree,Professional,Y
+1922,MRS.,Mick,Powers,Tonja Turnell,4/24/1959,M,F,Tonja@gmail.com,70000,5,Graduate Degree,Professional,N
+1923,MRS.,Lycoris,Ober,Stuart Calhoun,7/26/1959,M,F,Stuart@gmail.com,80000,4,Graduate Degree,Professional,Y
+1924,MR.,Darren,Powers,Doug Jacobs,11/2/1958,S,M,Doug@gmail.com,60000,3,Bachelors,Professional,N
+1925,MR.,Phillina,Ober,Peter McVee,3/16/1958,M,M,Peter@gmail.com,60000,1,Bachelors,Professional,Y
+1926,MRS.,Mick,Powers,Evan Minnotte,9/7/1958,M,F,Evan@gmail.com,60000,1,Bachelors,Professional,Y
+1927,MRS.,Lycoris,Ober,Elpida Rittenbach,10/13/1958,M,F,Elpida@gmail.com,60000,1,Bachelors,Professional,Y
+1928,MR.,Darren,Powers,Jim Radford,12/1/1958,S,M,Jim@gmail.com,60000,1,Bachelors,Professional,Y
+1929,MRS.,Phillina,Ober,Dionis Lloyd,2/9/1958,M,F,Dionis@gmail.com,70000,5,Graduate Degree,Professional,Y
+1930,MR.,Mick,Powers,Brad Thomas,7/18/1958,M,M,Brad@gmail.com,70000,5,Graduate Degree,Professional,Y
+1931,MR.,Lycoris,Ober,Bill Overfelt,9/13/1969,M,M,Bill@gmail.com,80000,4,Graduate Degree,Management,N
+1932,MRS.,Darren,Powers,Erica Bern,3/24/1968,M,F,Erica@gmail.com,60000,2,Bachelors,Professional,Y
+1933,MRS.,Phillina,Ober,Joy Bell-,7/17/1970,M,F,Joy@gmail.com,80000,4,Graduate Degree,Management,Y
+1934,MRS.,Mick,Powers,Bill Eplett,5/7/1970,M,F,Bill@gmail.com,80000,4,Graduate Degree,Management,Y
+1935,MRS.,Lycoris,Ober,Todd Boyes,3/18/1970,M,F,Todd@gmail.com,80000,4,Graduate Degree,Management,Y
+1936,MRS.,Darren,Powers,Harold Engle,7/8/1970,M,F,Harold@gmail.com,90000,2,Bachelors,Professional,Y
+1937,MR.,Phillina,Ober,Bobby Elias,5/15/1968,M,M,Bobby@gmail.com,60000,2,Bachelors,Professional,Y
+1938,MRS.,Mick,Powers,Don Weiss,9/13/1968,S,F,Don@gmail.com,60000,2,Bachelors,Professional,N
+1939,MR.,Lycoris,Ober,Jason Gross,5/14/1968,M,M,Jason@gmail.com,70000,5,Bachelors,Professional,Y
+1940,MR.,Darren,Powers,Caroline Jumper,12/22/1968,M,M,Caroline@gmail.com,70000,5,Bachelors,Professional,Y
+1941,MRS.,Phillina,Ober,Bryan Davis,11/22/1969,M,F,Bryan@gmail.com,110000,1,Graduate Degree,Management,N
+1942,MRS.,Mick,Powers,Henia Zydlo,10/27/1967,M,F,Henia@gmail.com,70000,5,Bachelors,Professional,Y
+1943,MR.,Lycoris,Ober,Susan Vittorini,4/19/1967,S,M,Susan@gmail.com,70000,5,Bachelors,Professional,Y
+1944,MR.,Darren,Powers,Janet Martin,8/24/1967,M,M,Janet@gmail.com,70000,5,Bachelors,Professional,Y
+1945,MR.,Phillina,Ober,Raymond Buch,2/11/1967,M,M,Raymond@gmail.com,80000,5,Graduate Degree,Management,Y
+1946,MRS.,Mick,Powers,Sean Wendt,7/17/1967,S,F,Sean@gmail.com,80000,5,Graduate Degree,Management,Y
+1947,MR.,Lycoris,Ober,Jill Matthias,10/11/1966,M,M,Jill@gmail.com,80000,5,Bachelors,Professional,Y
+1948,MS.,Darren,Powers,Clay Rozendal,7/4/1966,S,F,Clay@gmail.com,90000,0,Bachelors,Professional,N
+1949,MS.,Phillina,Ober,Ed Ludwig,5/24/1966,S,F,Ed@gmail.com,90000,0,Bachelors,Professional,N
+1950,MR.,Mick,Powers,Craig Leslie,10/8/1966,M,M,Craig@gmail.com,90000,2,Bachelors,Professional,Y
+1951,MS.,Lycoris,Ober,Rob Beeghly,8/17/1973,S,F,Rob@gmail.com,50000,0,Graduate Degree,Skilled Manual,Y
+1952,MR.,Darren,Powers,Chris McAfee,8/23/1973,S,M,Chris@gmail.com,50000,0,Graduate Degree,Skilled Manual,N
+1953,MR.,Phillina,Ober,Susan MacKendrick,10/8/1973,S,M,Susan@gmail.com,50000,0,Graduate Degree,Skilled Manual,N
+1954,MR.,Mick,Powers,Lindsay Williams,1/24/1973,M,M,Lindsay@gmail.com,50000,1,Graduate Degree,Skilled Manual,Y
+1955,MR.,Lycoris,Ober,Cynthia Voltz,7/6/1973,S,M,Cynthia@gmail.com,50000,1,Graduate Degree,Skilled Manual,Y
+1956,MRS.,Darren,Powers,Alejandro Savely,4/12/1973,M,F,Alejandro@gmail.com,50000,1,Graduate Degree,Skilled Manual,Y
+1957,MRS.,Phillina,Ober,Christopher Conant,5/25/1973,S,F,Christopher@gmail.com,50000,1,Graduate Degree,Skilled Manual,Y
+1958,MR.,Mick,Powers,Robert Waldorf,7/3/1973,M,M,Robert@gmail.com,50000,1,Graduate Degree,Skilled Manual,Y
+1959,MRS.,Lycoris,Ober,Scot Coram,7/24/1972,S,F,Scot@gmail.com,40000,1,Graduate Degree,Skilled Manual,Y
+1960,MRS.,Darren,Powers,Liz Preis,3/21/1971,S,F,Liz@gmail.com,60000,1,Graduate Degree,Skilled Manual,Y
+1961,MRS.,Phillina,Ober,Roy Skaria,7/19/1971,S,F,Roy@gmail.com,60000,1,Graduate Degree,Skilled Manual,Y
+1962,MRS.,Mick,Powers,Darrin Van Huff,11/20/1971,S,F,Darrin Van@gmail.com,60000,1,Graduate Degree,Skilled Manual,Y
+1963,MR.,Lycoris,Ober,Jim Sink,3/10/1971,M,M,Jim@gmail.com,60000,1,Graduate Degree,Skilled Manual,Y
+1964,MRS.,Darren,Powers,Ted Butterfield,3/17/1971,M,F,Ted@gmail.com,60000,1,Graduate Degree,Skilled Manual,Y
+1965,MRS.,Phillina,Ober,Lela Donovan,11/17/1971,M,F,Lela@gmail.com,60000,1,Graduate Degree,Skilled Manual,Y
+1966,MR.,Mick,Powers,Phillip Flathmann,12/19/1972,M,M,Phillip@gmail.com,40000,1,Graduate Degree,Skilled Manual,Y
+1967,MR.,Lycoris,Ober,Anemone Ratner,2/25/1972,M,M,Anemone@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1968,MR.,Darren,Powers,Larry Blacks,9/13/1972,S,M,Larry@gmail.com,60000,1,Graduate Degree,Skilled Manual,Y
+1969,MR.,Phillina,Ober,Alex Grayson,9/5/1972,M,M,Alex@gmail.com,60000,1,Graduate Degree,Skilled Manual,Y
+1970,MRS.,Mick,Powers,Max Ludwig,2/19/1972,S,F,Max@gmail.com,70000,1,Graduate Degree,Professional,Y
+1971,MRS.,Lycoris,Ober,Anthony O'Donnell,2/20/1970,M,F,Anthony@gmail.com,50000,1,Bachelors,Skilled Manual,Y
+1972,MR.,Darren,Powers,Mick Hernandez,5/21/1970,M,M,Mick@gmail.com,50000,1,Bachelors,Skilled Manual,Y
+1973,MR.,Phillina,Ober,Charles McCrossin,4/21/1970,M,M,Charles@gmail.com,60000,1,Graduate Degree,Professional,Y
+1974,MRS.,Mick,Powers,Sung Chung,5/27/1969,M,F,Sung@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1975,MR.,Lycoris,Ober,Adrian Shami,3/20/1969,M,M,Adrian@gmail.com,40000,1,Bachelors,Skilled Manual,Y
+1976,MRS.,Darren,Powers,Ralph Ritter,11/1/1969,S,F,Ralph@gmail.com,40000,2,Bachelors,Skilled Manual,Y
+1977,MRS.,Phillina,Ober,Neola Schneider,2/15/1969,S,F,Neola@gmail.com,40000,2,Bachelors,Skilled Manual,Y
+1978,MRS.,Mick,Powers,Carol Darley,2/7/1969,S,F,Carol@gmail.com,40000,2,Bachelors,Skilled Manual,N
+1979,MR.,Lycoris,Ober,Sally Knutson,3/7/1969,S,M,Sally@gmail.com,40000,2,Bachelors,Skilled Manual,Y
+1980,MR.,Darren,Powers,Justin Ellison,2/12/1969,M,M,Justin@gmail.com,40000,2,Bachelors,Skilled Manual,Y
+1981,MR.,Phillina,Ober,Carl Jackson,9/13/1969,M,M,Carl@gmail.com,40000,2,Bachelors,Skilled Manual,Y
+1982,MRS.,Mick,Powers,Roland Murray,11/7/1969,M,F,Roland@gmail.com,60000,1,Graduate Degree,Professional,Y
+1983,MR.,Lycoris,Ober,Michelle Lonsdale,9/16/1969,M,M,Michelle@gmail.com,60000,1,Graduate Degree,Professional,Y
+1984,MRS.,Darren,Powers,Tony Molinari,8/9/1971,M,F,Tony@gmail.com,60000,1,Graduate Degree,Professional,Y
+1985,MRS.,Phillina,Ober,Mitch Gastineau,9/12/1971,S,F,Mitch@gmail.com,60000,1,Graduate Degree,Professional,Y
+1986,MRS.,Mick,Powers,Clay Cheatham,4/18/1971,M,F,Clay@gmail.com,60000,1,Graduate Degree,Professional,Y
+1987,MR.,Lycoris,Ober,Chuck Sachs,3/12/1971,M,M,Chuck@gmail.com,70000,2,Graduate Degree,Professional,Y
+1988,MRS.,Darren,Powers,Jenna Caffey,8/10/1971,M,F,Jenna@gmail.com,70000,2,Graduate Degree,Professional,Y
