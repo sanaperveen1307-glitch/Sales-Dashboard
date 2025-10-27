@@ -20,6 +20,13 @@ The main objective of this project is to Analyze Sales , Product and Customer pe
   
   <img width="1373" height="741" alt="Sale Dashboard" src="https://github.com/user-attachments/assets/b1d7af80-d360-4504-b35c-f7a2284811cd" />
 
+## Q & A 
+
+<img width="1177" height="617" alt="Q  A" src="https://github.com/user-attachments/assets/d3467d83-43ed-4e20-888f-8547b785f71d" />
+ ## Decomposition Tree 
+ 
+ <img width="1121" height="622" alt="Decomposition tree" src="https://github.com/user-attachments/assets/2e67fce2-fa9d-4fdd-a598-2cf4bdde1f73" />
+
 ## Product  Analysis 
 - Top Product By Revenue 
 - Guage: Represent the Traget achieve 
@@ -36,9 +43,12 @@ The main objective of this project is to Analyze Sales , Product and Customer pe
 - Top Customer Orders And Revenues
 - Key Influencer( Analyze Customer orders by Customer Income , Occpation , age & gender)
 - Total Customers  by Age range with their profit
-
   
 <img width="1312" height="727" alt="Customer Analysis" src="https://github.com/user-attachments/assets/a21656f6-cbd9-4da2-b943-29a92dc4da0b" />
+
+## Key Influencer 
+
+<img width="1291" height="737" alt="Key influence " src="https://github.com/user-attachments/assets/2b5813bc-1e2b-469e-80e2-a73ab35977c5" />
 
 ## Process 
 - Data Acquisition: Downloaded the dataset from Kaggle.
