@@ -16,7 +16,8 @@ The main objective of this project is to Analyze Sales , Product and Customer pe
 - Showing Revenue Trend
 - Decomposition Tree ( Witth KPIs)
 - Most Order and Retrun Prroduct  type
-- Dashboard Interaction 
+  <img width="1373" height="741" alt="Sale Dashboard" src="https://github.com/user-attachments/assets/b1d7af80-d360-4504-b35c-f7a2284811cd" />
+
 ## Product  Analysis 
 - Top Product By Revenue 
 - Guage: Represent the Traget achieve 
@@ -24,17 +25,19 @@ The main objective of this project is to Analyze Sales , Product and Customer pe
 - Parammeter : for Profi and Adjusted Profit
 - Average Price and cost by Sub-Category
 - Silcer :  for selected prroduct (Revenue, Orders, Profit & Retruns)
+<img width="1302" height="732" alt="Product Analysis" src="https://github.com/user-attachments/assets/ccb176a7-c26f-4226-8511-b489ffd79338" />
 
 ## Customer Analysis 
 - Cards ( Average Revenue per Customer and No. Of Customers)
 - Top Customer Orders And Revenues
 - Key Influencer( Analyze Customer orders by Customer Income , Occpation , age & gender)
 - Total Customers  by Age range with their profit
+<img width="1312" height="727" alt="Customer Analysis" src="https://github.com/user-attachments/assets/a21656f6-cbd9-4da2-b943-29a92dc4da0b" />
 
 ## Process 
 - Data Acquisition: Downloaded the dataset from Kaggle.
 - Data Transformation: Loaded and cleaned the raw data in Power Query (e.g., ensuring correct data types, handling any null values).
 - Data Modeling (DAX): Created necessary DAX measures 
 - Visualization: Designed a multi-page dashboard, including a Sales & Profit Dashboard and a Customer Analysis Dashboard.
-
+- Dashboard interaction 
 ## Dasboard 
