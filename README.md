@@ -8,6 +8,7 @@ The main objective of this project is to Analyze Sales , Product and Customer pe
  - "https://github.com/sanaperveen1307-glitch/Sales-Dashboard/blob/main/SALES%20DATA%20TABLE%20.csv", Sale Table
  - "https://github.com/sanaperveen1307-glitch/Sales-Dashboard/blob/main/Product%20Table.csv", Product Table
  - "https://github.com/sanaperveen1307-glitch/Sales-Dashboard/blob/main/Customer%20%20Table.csv", Customer Table
+ - "https://github.com/sanaperveen1307-glitch/Sales-Dashboard/blob/main/Retrun%20Data%20Table%20.csv", Retrun Table 
 ## Sales Analysis 
 - (KPI) Compare Current and previous year (Revenue , Order, Profit & Retruns)
 - Order  by Product Category & Sub-Category can filter by Year to Month
@@ -15,7 +16,7 @@ The main objective of this project is to Analyze Sales , Product and Customer pe
 - Showing Revenue Trend
 - Decomposition Tree ( Witth KPIs)
 - Most Order and Retrun Prroduct  type
- 
+- Dashboard Interaction 
 ## Product  Analysis 
 - Top Product By Revenue 
 - Guage: Represent the Traget achieve 
