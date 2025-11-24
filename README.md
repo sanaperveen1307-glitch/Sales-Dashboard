@@ -31,9 +31,9 @@ The main objective of this project is to Analyze Sales , Product and Customer pe
 - Top Product By Revenue 
 - Guage: Represent the Traget achieve 
 - Product Order ( Detail by Colour)
-- Parammeter : for Profi and Adjusted Profit
+- Parameter : for Profi and Adjusted Profit
 - Average Price and cost by Sub-Category
-- Silcer :  for selected prroduct (Revenue, Orders, Profit & Retruns)
+- Slicer :  for selected prroduct (Revenue, Orders, Profit & Retruns)
 
   
 <img width="1302" height="732" alt="Product Analysis" src="https://github.com/user-attachments/assets/ccb176a7-c26f-4226-8511-b489ffd79338" />
