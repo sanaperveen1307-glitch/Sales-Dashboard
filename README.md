@@ -12,7 +12,7 @@ The main objective of this project is to Analyze Sales , Product and Customer pe
 ## Sales Analysis 
 - (KPI) Compare Current and previous year (Revenue , Order, Profit & Retruns)
 - Order  by Product Category & Sub-Category can filter by Year to Month
-- Q& A ( for any qustion regard data)
+- Q& A ( for any question regard data)
 - Showing Revenue Trend
 - Decomposition Tree ( Witth KPIs)
 - Most Order and Retrun Prroduct  type
@@ -31,7 +31,7 @@ The main objective of this project is to Analyze Sales , Product and Customer pe
 - Top Product By Revenue 
 - Guage: Represent the Traget achieve 
 - Product Order ( Detail by Colour)
-- Parameter : for Profi and Adjusted Profit
+- Parameter : for Profit and Adjusted Profit
 - Average Price and cost by Sub-Category
 - Slicer :  for selected prroduct (Revenue, Orders, Profit & Retruns)
 
